@@ -1,7 +1,40 @@
 {
   "name": "PS4 by ARNOTS",
   "packages": [
+            {
+      "titleId": "CUSA11456 – USA",
+      "title": "Ghost of Tsushima Directors Cut PS4 CUSA11456 – USA",
+      "version": "1.79",
+      "sizeBytes": 430000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Ghost-of-Tsushima-PS4-PKG.webp",
+      "downloadLinks": [
         {
+          "name": "FULL GAME - US",
+          "url": "https://akirabox.com/RMKGJk5J1m1o/file"
+        },
+        {
+          "name": "FULL GAME CUSA13323 – EUR",
+          "url": "https://vikingfile.com/f/2Gl8wjy0Ld"
+        },
+        {
+          "name": "Update 2.18 - US",
+          "url": "https://akirabox.com/EL73gjB6Wm9B/file"
+        },
+        {
+          "name": "DLC Director Cut - US",
+          "url": "https://akirabox.com/2WVGrQK1Mzkx/file"
+        },
+        {
+          "name": "Update v2.24 - EUR",
+          "url": "https://vikingfile.com/f/VTYbhDyGVv"
+        },
+        {
+          "name": "All New DLCs - EUR",
+          "url": "https://vikingfile.com/f/Dak7l2UkUk"
+        },
+      ]
+    },
+    {
       "titleId": "CUSA14030 – EUR",
       "title": "Devil May Cry 5 Deluxe Edition (CUSA08161 – EUR) PS4",
       "version": "1.79",
