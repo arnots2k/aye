@@ -1,0 +1,90 @@
+{
+  "name": "PS4 MOCHA PKG by ARNOTS",
+  "packages": [
+    {
+      "titleId": "CUSA14030",
+      "title": "Marvel’s Avengers - PS4",
+      "version": "1.79",
+      "sizeBytes": 460000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2021/03/Marvels-Avengers-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME Download",
+          "url": "https://mocha.my/share/ytDlSHjfhNnqZbZ8_kO28ZVQhsKB1zHt"
+        },
+        {
+          "name": "UPDATE v1.79 (8.00+) DL",
+          "url": "https://mocha.my/share/mA_tijwRN0jdDpQKfeIByWr9sezX9r0q"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA36847",
+      "title": "Lies of P - PS4",
+      "version": "1.12",
+      "sizeBytes": 194000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Lies-of-P-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME",
+          "url": "https://mocha.my/share/bjezMB7iv3ROXpliKdRsy3HrkIaFLSkv"
+        },
+        {
+          "name": "Update 1.12 (Fix 5.05/6.72/7.xx/9.00)",
+          "url": "https://mocha.my/share/Wy4HBtJ_A7ySD0k3lIUyto1hcVoI6qIb"
+        },
+        {
+          "name": "DLCs",
+          "url": "https://mocha.my/share/fJYgEKiddQ79OLxqUiF5HwdwOJtX2fCb"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA08519 – EUR",
+      "title": "Red Dead Redemption 2 PS4",
+      "version": "1.00",
+      "sizeBytes": 794300000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Red-Dead-Redemption-2-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "Game Download",
+          "url": "https://vik1ngfile.site/f/Aq2PxTyDoj"
+        }
+        ,{
+          "name": "Update v1.32",
+          "url": "https://vik1ngfile.site/f/dygkXvjmkh"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA03041 – USA",
+      "title": "Red Dead Redemption 2 PS4",
+      "version": "1.00",
+      "sizeBytes": 794300000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Red-Dead-Redemption-2-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "Game Download",
+          "url": "https://filekeeper.net/50y1b7n3o3fs/%5BSuperPSX.com%5D-Red.Dead.Redemption.2.CUSA03041-USA-Game-PS4-DUPLEX.pkg"
+        }
+        ,{
+          "name": "Update v1.29",
+          "url": "https://filekeeper.net/ffq319o2csla/%5BSuperPSX.com%5D-Red.Dead.Redemption.2.CUSA03041-USA-Update-1.29-%5B6.72+%5D-PS4.rar"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07867",
+      "title": "Forever Skies",
+      "version": "2.10",
+      "sizeBytes": 17179869184,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1915/668c9b10fd97a5ae0e2ecd19855b40b3df4893d6852e8190.png",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/Id7hwkiS"
+        }
+      ]
+    }
+  ]
+}
