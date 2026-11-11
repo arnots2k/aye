@@ -1,9 +1,38 @@
 {
   "name": "PS4 by ARNOTS",
   "packages": [
+        {
+      "titleId": "CUSA14030 – EUR",
+      "title": "Devil May Cry 5 Deluxe Edition (CUSA08161 – EUR) PS4",
+      "version": "1.79",
+      "sizeBytes": 310000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Devil-May-Cry-5-Special-Edition-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME",
+          "url": "https://akirabox.com/N2p3DeRARzMa/file"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://vikingfile.com/f/lUnGte9Wr7"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://1fichier.com/?fwmx60isp1u6r83meccd&af=4186346"
+        },
+        {
+          "name": "Update v1.10",
+          "url": "https://vikingfile.com/f/emjzPqrDgo"
+        },
+        {
+          "name": "All DLC Complete",
+          "url": "https://vikingfile.com/f/4x0gXeNifH"
+        }
+      ]
+    },
     {
       "titleId": "CUSA14030 – EUR",
-      "title": "Marvel’s Avengers - PS4",
+      "title": "Marvel’s Avengers (CUSA14030 – EUR) PS4",
       "version": "1.79",
       "sizeBytes": 460000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2021/03/Marvels-Avengers-PS4-PKG.webp",
