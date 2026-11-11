@@ -2,19 +2,31 @@
   "name": "PS4 MOCHA PKG by ARNOTS",
   "packages": [
     {
-      "titleId": "CUSA14030",
+      "titleId": "CUSA14030 – EUR",
       "title": "Marvel’s Avengers - PS4",
       "version": "1.79",
       "sizeBytes": 460000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2021/03/Marvels-Avengers-PS4-PKG.webp",
       "downloadLinks": [
         {
-          "name": "FULL GAME Download",
-          "url": "https://mocha.my/share/ytDlSHjfhNnqZbZ8_kO28ZVQhsKB1zHt"
+          "name": "FULL GAME",
+          "url": "https://vikingfile.com/f/BSlgPujB4t"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://filekeeper.net/978vwmyaxqnh/%5BSuperPSX%5D-Marvels.Avengers_CUSA14030_v1.00_%5B7.02%5D_OPOISSO893.rar"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://1fichier.com/?cye8iez5mpucc4co4b7n&af=4186346"
         },
         {
           "name": "UPDATE v1.79 (8.00+) DL",
-          "url": "https://mocha.my/share/mA_tijwRN0jdDpQKfeIByWr9sezX9r0q"
+          "url": "https://vikingfile.com/f/C5z4qIdCRi"
+        },
+        {
+          "name": "UPDATE v1.79 (8.00+) DL",
+          "url": "https://filekeeper.net/eoy8epkjpn6h/%5BSuperPSX%5D-Marvels.Avengers_CUSA14030_v1.79_%5B8.00%5D_OPOISSO893.rar"
         }
       ]
     },
