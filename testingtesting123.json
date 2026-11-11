@@ -1,6 +1,37 @@
 {
   "name": "PS4 by ARNOTS",
   "packages": [
+
+                {
+      "titleId": "CUSA11456 – USA",
+      "title": "Driveclub PS4 CUSA00093 – USA",
+      "version": "1.79",
+      "sizeBytes": 300000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Driveclub-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME",
+          "url": "https://vikingfile.com/f/CGLQNAQF6b"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://filekeeper.net/9j41x9cuxm5l/%5BSPSX%5D-DRIVECLUB-CUSA00093-USA-Game-(5.05+)-PS4.pkg"
+        },
+        {
+          "name": "Update 1.28",
+          "url": "https://vikingfile.com/f/AwL9nhsEyr"
+        },
+        {
+          "name": "Update 1.28 - 60FPS",
+          "url": "https://vikingfile.com/f/7ePBTuQ8IA"
+        },
+        {
+          "name": "All DLC",
+          "url": "https://vikingfile.com/f/bSO5foga0A"
+        }
+      ]
+    },
+    
             {
       "titleId": "CUSA11456 – USA",
       "title": "Ghost of Tsushima Directors Cut PS4 CUSA11456 – USA",
