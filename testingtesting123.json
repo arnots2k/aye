@@ -2,6 +2,25 @@
   "name": "SuperPSX PS4 by ARNOTS",
 	"version": 1,
   "packages": [
+        {
+      "titleId": "CUSA00004 – EUR",
+      "title": "Infamous Second Son PS4 [CUSA00004 – EUR]",
+      "category": "game",
+      "version": "1.07",
+      "sizeBytes": 18038862643,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/03/Infamous-Second-Son-PS4-PKG.webp",
+      "description": "<p>Infamous Second Son is an action-adventure game developed by Sucker Punch Productions and published by Sony Computer Entertainment. The game is the third installment in the Infamous series and was released on March 21, 2014.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/CI4qghvqkl"
+        }
+        ,{
+          "name": "DLC [viki]",
+          "url": "https://vikingfile.com/f/sYUsopFiwP"
+        }
+      ]
+    },
 		{
       "titleId": "CUSA03220 – USA",
       "title": "Gran Turismo Sport PS4 [CUSA03220 – USA]",
