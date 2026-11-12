@@ -2,6 +2,24 @@
   "name": "SuperPSX PS4 by ARNOTS",
   "packages": [
         {
+      "titleId": "CUSA03220 – USA",
+      "title": "Gran Turismo Sport PS4 [CUSA03220 – USA]",
+      "version": "1.69",
+      "sizeBytes": 410000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2022/06/Elden-Ring-PS4-PKG-1.jpg",
+      "description": "<p>Gran Turismo Sport is a 2017 racing video game developed by Polyphony Digital and published by Sony Interactive Entertainment. Released on October 17, 2017, for PlayStation 4, this installment of the Gran Turismo franchise offers enhanced graphics, sound, and physics for a highly realistic driving simulation experience.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [datanodes]",
+          "url": "https://datanodes.to/eis1vmrza1xg/[SuperPSX.com]-Gran.Turismo.Sport-CUSA03220-USA-Game-PS4-[High-Speed].pkg"
+        }
+        ,{
+          "name": "Update v1.69 [datanodes]",
+          "url": "https://datanodes.to/kc81176neea8/[SuperPSX.com]-Gran.Turismo.Sport-CUSA03220-USA-v1.69-[Fix_5.05-6.72-7.02-7.55-9.00]-CyB1K.pkg"
+        }
+      ]
+    },
+        {
       "titleId": "CUSA56931 – USA",
       "title": "Elden Ring PS4 [CUSA28863 – USA]",
       "version": "1.21",
