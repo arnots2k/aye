@@ -3,6 +3,25 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA46747 – JPN",
+      "title": "Marvel vs Capcom Fighting Collection Arcade Classics PS4 [CUSA46747 – JPN]",
+      "category": "game",
+      "version": "1.04",
+      "sizeBytes": 4294967296,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/11/Marvel-vs-Capcom-Fighting-Collection-PS4-PKG.webp",
+      "description": "<p>Marvel vs Capcom Fighting Collection brings together an exciting collection of classic arcade fighting games, showcasing legendary characters from both Marvel and Capcom universes. This collection features updated visuals, online multiplayer modes, and a robust set of options for both newcomers and veteran players alike.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [filek]",
+          "url": "https://filekeeper.net/3dsh1kzc7beu/%5BSPSX%5D-Marvel.vs.Capcom.Fighting.Collection-CUSA46747-JPN-Game-PS4.pkg"
+        }
+        ,{
+          "name": "Update v1.04 [rootz]",
+          "url": "https://www.rootz.so/d/1CGvKa"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA06638 – EUR",
       "title": "Persona 5 PS4 [CUSA06638 – EUR]",
       "category": "game",
