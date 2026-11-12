@@ -1,9 +1,11 @@
 {
   "name": "SuperPSX PS4 by ARNOTS",
+	"version": 1,
   "packages": [
-        {
+		{
       "titleId": "CUSA03220 – USA",
       "title": "Gran Turismo Sport PS4 [CUSA03220 – USA]",
+			"category": "game",
       "version": "1.69",
       "sizeBytes": 410000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
@@ -22,6 +24,7 @@
         {
       "titleId": "CUSA56931 – USA",
       "title": "Elden Ring PS4 [CUSA28863 – USA]",
+			"category": "game",
       "version": "1.21",
       "sizeBytes": 310000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2022/06/Elden-Ring-PS4-PKG-1.jpg",
@@ -35,11 +38,12 @@
           "name": "Update 1.21 + All DLC Merged [viki]",
           "url": "https://vikingfile.com/f/kDd1sjTFid"
         }
-    ]
+			]
     },
         {
       "titleId": "CUSA56931 – USA",
       "title": "Disney Pixar Toy Story Retro Roundup! PS4 CUSA56931 – USA",
+			"category": "game",
       "version": "1.00",
       "sizeBytes": 89430000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/11/Disney-Pixar-Toy-Story-Retro-Roundup-PS4-PKG.jpg",
@@ -58,6 +62,7 @@
         {
       "titleId": "CUSA11456 – USA",
       "title": "Driveclub PS4 CUSA00093 – USA",
+			"category": "game",
       "version": "1.79",
       "sizeBytes": 300000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Driveclub-PS4-PKG.webp",
@@ -87,6 +92,7 @@
     {
       "titleId": "CUSA11456 – USA",
       "title": "Ghost of Tsushima Directors Cut PS4 CUSA11456 – USA",
+			"category": "game",
       "version": "1.79",
       "sizeBytes": 430000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Ghost-of-Tsushima-PS4-PKG.webp",
@@ -120,6 +126,7 @@
     {
       "titleId": "CUSA14030 – EUR",
       "title": "Devil May Cry 5 Deluxe Edition (CUSA08161 – EUR) PS4",
+			"category": "game",
       "version": "1.79",
       "sizeBytes": 310000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Devil-May-Cry-5-Special-Edition-PS4-PKG.webp",
@@ -149,6 +156,7 @@
     {
       "titleId": "CUSA14030 – EUR",
       "title": "Marvel’s Avengers (CUSA14030 – EUR) PS4",
+			"category": "game",
       "version": "1.79",
       "sizeBytes": 460000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2021/03/Marvels-Avengers-PS4-PKG.webp",
@@ -178,6 +186,7 @@
     {
       "titleId": "CUSA36847",
       "title": "Lies of P - PS4",
+			"category": "game",
       "version": "1.12",
       "sizeBytes": 194000000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Lies-of-P-PS4-PKG.webp",
@@ -199,6 +208,7 @@
     {
       "titleId": "CUSA08519 – EUR",
       "title": "Red Dead Redemption 2 PS4",
+			"category": "game",
       "version": "1.00",
       "sizeBytes": 794300000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Red-Dead-Redemption-2-PS4-PKG.webp",
@@ -216,6 +226,7 @@
     {
       "titleId": "CUSA03041 – USA",
       "title": "Red Dead Redemption 2 PS4",
+			"category": "game",
       "version": "1.00",
       "sizeBytes": 794300000,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Red-Dead-Redemption-2-PS4-PKG.webp",
