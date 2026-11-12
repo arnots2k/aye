@@ -2,6 +2,25 @@
   "name": "SuperPSX PS4 by ARNOTS",
 	"version": 1,
   "packages": [
+	      {
+      "titleId": "CUSA06638 – EUR",
+      "title": "Persona 5 PS4 [CUSA06638 – EUR]",
+      "category": "game",
+      "version": "1.07",
+      "sizeBytes": 20615843021,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/04/Persona-5-PS4-PKG.webp",
+      "description": "<p>Persona 5 is a critically acclaimed role-playing and social simulation game. The PS4 fake PKG for Persona 5, including updates and DLC, is available for download. You can install this game on any exploited PlayStation 4 console via USB or FTP. Developed by P-Studio and published by Atlus and Deep Silver, Persona 5 is the sixth installment in the Persona series and was released on September 15, 2016. The game has received positive reviews from critics and players alike for its engaging gameplay and unique features.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/PgMMwlDIwz"
+        }
+        ,{
+          "name": "NO DLC [null]",
+          "url": "https://null"
+        }
+      ]
+    },
         {
       "titleId": "CUSA00004 – EUR",
       "title": "Infamous Second Son PS4 [CUSA00004 – EUR]",
