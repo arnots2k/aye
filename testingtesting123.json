@@ -2,6 +2,24 @@
   "name": "SuperPSX PS4 by ARNOTS",
   "packages": [
         {
+      "titleId": "CUSA56931 – USA",
+      "title": "Disney Pixar Toy Story Retro Roundup! PS4 CUSA56931 – USA",
+      "version": "1.00",
+      "sizeBytes": 89430000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/11/Disney-Pixar-Toy-Story-Retro-Roundup-PS4-PKG.jpg",
+      "description": "<p>Disney•Pixar Toy Story: Retro Roundup! is a nostalgic, vibrant platform-adventure collection celebrating the timeless antics of Andy’s favorite toys on PlayStation 4. Featuring classic escapades and retro-inspired challenges alongside Woody, Buzz Lightyear, and the entire gang, players dash, leap, and lasso their way through iconic animated environments. The Disney Pixar Toy Story: Retro Roundup! PS4 Fake PKG is now available for download and installation, and game updates & DLC (PKG) can be seamlessly installed on any exploited PlayStation 4 using USB or FTP. Step back into Andy’s room and re-experience classic arcade-style toy adventures packed with family-friendly charm.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/gzplHD2CNG"
+        }
+        ,{
+          "name": "Update v1.03 [viki]",
+          "url": "https://vikingfile.com/f/JD6mASHaFa"
+        }
+    ]
+    },
+        {
       "titleId": "CUSA11456 – USA",
       "title": "Driveclub PS4 CUSA00093 – USA",
       "version": "1.79",
