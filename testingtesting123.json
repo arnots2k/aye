@@ -1,5 +1,5 @@
 {
-  "name": "PS4 by ARNOTS",
+  "name": "SuperPSX PS4 by ARNOTS",
   "packages": [
         {
       "titleId": "CUSA11456 – USA",
@@ -30,7 +30,6 @@
         }
       ]
     },
-    
     {
       "titleId": "CUSA11456 – USA",
       "title": "Ghost of Tsushima Directors Cut PS4 CUSA11456 – USA",
