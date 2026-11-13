@@ -3,6 +3,33 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA12555 – EUR",
+      "title": "Dying Light 2 Stay Human PS4 [CUSA12555 – EUR]",
+      "category": "game",
+      "version": "1.88",
+      "sizeBytes": 22011707392,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Dying-Light-2-Stay-Human-PS4-PKG.webp",
+      "description": "<p>Dying Light 2 Stay Human is an action-packed open-world survival horror game developed and published by Techland. Set in a post-apocalyptic world, players navigate a vast city overrun by the infected, using parkour skills and combat to survive.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [filekeeper]",
+          "url": "https://filekeeper.net/rupgzk6mvenm/%5BSPSX%5D-Dying.Light.2.Stay.Human_CUSA12555_v1.00_%5B9.00%5D_OPOISSO893.pkg"
+        }
+        ,{
+          "name": "Update v1.88 [viki]",
+          "url": "https://vikingfile.com/f/whxOautDCT"
+        }
+        ,{
+          "name": "DLC Ultimate [viki]",
+          "url": "https://vikingfile.com/f/xdO4eGUdEY"
+        }
+        ,{
+          "name": "DLC [viki]",
+          "url": "https://vikingfile.com/f/GFjTRJGZhm"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA33387 – USA",
       "title": "Resident Evil 4 Remake Gold Edition PS4 [CUSA33387 – USA]",
       "category": "game",
