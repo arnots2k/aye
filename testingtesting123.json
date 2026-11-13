@@ -3,7 +3,7 @@
 	"version": 1,
   "packages": [
 	      {
-      "titleId": "CUSA12555 – EUR",
+      "titleId": "CUSA12555",
       "title": "Dying Light 2 Stay Human PS4 [CUSA12555 – EUR]",
       "category": "game",
       "version": "1.88",
@@ -30,7 +30,7 @@
       ]
     },
 	      {
-      "titleId": "CUSA33387 – USA",
+      "titleId": "CUSA33387",
       "title": "Resident Evil 4 Remake Gold Edition PS4 [CUSA33387 – USA]",
       "category": "game",
       "version": "1.11",
@@ -49,7 +49,7 @@
       ]
     },
 	      {
-      "titleId": "CUSA46747 – JPN",
+      "titleId": "CUSA46747",
       "title": "Marvel vs Capcom Fighting Collection Arcade Classics PS4 [CUSA46747 – JPN]",
       "category": "game",
       "version": "1.04",
@@ -68,7 +68,7 @@
       ]
     },
 	      {
-      "titleId": "CUSA06638 – EUR",
+      "titleId": "CUSA06638",
       "title": "Persona 5 PS4 [CUSA06638 – EUR]",
       "category": "game",
       "version": "1.07",
@@ -87,7 +87,7 @@
       ]
     },
         {
-      "titleId": "CUSA00004 – EUR",
+      "titleId": "CUSA00004",
       "title": "Infamous Second Son PS4 [CUSA00004 – EUR]",
       "category": "game",
       "version": "1.07",
@@ -106,7 +106,7 @@
       ]
     },
 		{
-      "titleId": "CUSA03220 – USA",
+      "titleId": "CUSA03220",
       "title": "Gran Turismo Sport PS4 [CUSA03220 – USA]",
 			"category": "game",
       "version": "1.69",
@@ -125,7 +125,7 @@
       ]
     },
         {
-      "titleId": "CUSA56931 – USA",
+      "titleId": "CUSA28863",
       "title": "Elden Ring PS4 [CUSA28863 – USA]",
 			"category": "game",
       "version": "1.21",
@@ -144,8 +144,8 @@
 	  ]
     },
 	  	{
-      "titleId": "CUSA56931 – USA",
-      "title": "Disney Pixar Toy Story Retro Roundup! PS4 CUSA56931 – USA",
+      "titleId": "CUSA56931",
+      "title": "Disney Pixar Toy Story Retro Roundup! PS4 [CUSA56931 – USA]",
 			"category": "game",
       "version": "1.00",
       "sizeBytes": 894300000,
@@ -163,7 +163,7 @@
       ]
     },
 	  	{
-      "titleId": "CUSA11456 – USA",
+      "titleId": "CUSA11456",
       "title": "Driveclub PS4 CUSA00093 – USA",
 			"category": "game",
       "version": "1.79",
@@ -193,8 +193,8 @@
       ]
     },
 	  	{
-      "titleId": "CUSA11456 – USA",
-      "title": "Ghost of Tsushima Directors Cut PS4 CUSA11456 – USA",
+      "titleId": "CUSA11456",
+      "title": "Ghost of Tsushima Directors Cut PS4 [CUSA11456 – USA]",
 			"category": "game",
       "version": "1.79",
       "sizeBytes": 43000000000,
@@ -227,8 +227,8 @@
       ]
     },
     	{
-      "titleId": "CUSA14030 – EUR",
-      "title": "Devil May Cry 5 Deluxe Edition (CUSA08161 – EUR) PS4",
+      "titleId": "CUSA08161",
+      "title": "Devil May Cry 5 Deluxe Edition PS4 [CUSA08161 – EUR]",
 			"category": "game",
       "version": "1.79",
       "sizeBytes": 31000000000,
@@ -257,7 +257,7 @@
       ]
     },
 	  	{
-      "titleId": "CUSA14030 – EUR",
+      "titleId": "CUSA14030",
       "title": "Marvel’s Avengers (CUSA14030 – EUR) PS4",
 			"category": "game",
       "version": "1.79",
@@ -309,8 +309,8 @@
       ]
     },
     {
-      "titleId": "CUSA08519 – EUR",
-      "title": "Red Dead Redemption 2 PS4",
+      "titleId": "CUSA08519",
+      "title": "Red Dead Redemption 2 PS4 [CUSA08519 – EUR]",
 			"category": "game",
       "version": "1.00",
       "sizeBytes": 79430000000,
@@ -327,8 +327,8 @@
       ]
     },
     	{
-      "titleId": "CUSA03041 – USA",
-      "title": "Red Dead Redemption 2 PS4",
+      "titleId": "CUSA03041",
+      "title": "Red Dead Redemption 2 PS4 [CUSA03041 – USA]",
 			"category": "game",
       "version": "1.00",
       "sizeBytes": 79430000000,
@@ -345,15 +345,15 @@
       ]
     },
     {
-      "titleId": "PPSA07867",
-      "title": "Forever Skies",
-      "version": "2.10",
-      "sizeBytes": 17179869184,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1915/668c9b10fd97a5ae0e2ecd19855b40b3df4893d6852e8190.png",
+      "titleId": "PPSA00000",
+      "title": "SUPERPSX PS4 Games - ARNOTS",
+      "version": "1.00",
+      "sizeBytes": 00000000000,
+      "posterUrl": "https://i.etsystatic.com/42656403/r/il/259172/6433913118/il_1080xN.6433913118_kol3.jpg",
       "downloadLinks": [
         {
-          "name": "Download",
-          "url": "https://gofile.io/d/Id7hwkiS"
+          "name": "SEARCH ON GOOGLE",
+          "url": "https://www.google.com/"
         }
       ]
     }
