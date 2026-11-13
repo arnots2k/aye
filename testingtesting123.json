@@ -163,8 +163,8 @@
       ]
     },
 	  	{
-      "titleId": "CUSA11456",
-      "title": "Driveclub PS4 CUSA00093 – USA",
+      "titleId": "CUSA00093",
+      "title": "Driveclub PS4 [CUSA00093 – USA]",
 			"category": "game",
       "version": "1.79",
       "sizeBytes": 300000000,
@@ -258,7 +258,7 @@
     },
 	  	{
       "titleId": "CUSA14030",
-      "title": "Marvel’s Avengers (CUSA14030 – EUR) PS4",
+      "title": "Marvel’s Avengers PS4 [CUSA14030 – EUR]",
 			"category": "game",
       "version": "1.79",
       "sizeBytes": 46000000000,
@@ -288,7 +288,7 @@
     },
 	  	{
       "titleId": "CUSA36847",
-      "title": "Lies of P - PS4",
+      "title": "Lies of P - PS4 [CUSA36847 - EUR]",
 			"category": "game",
       "version": "1.12",
       "sizeBytes": 19400000000,
@@ -348,8 +348,8 @@
       "titleId": "PPSA00000",
       "title": "SUPERPSX PS4 Games - ARNOTS",
       "version": "1.00",
-      "sizeBytes": 100000000000,
-      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCm1xNfvCva9lLJuoQe6muPjvuJciUyEqmmfps2T-ew&s=10",
+      "sizeBytes": 1,
+      "posterUrl": "https://play-lh.googleusercontent.com/wZQBffjQYzNWZ5DKGP2SDBCK4nZJsprDuMeYnzQIRvX8FkINdzLTv0iIpGOykVXMEbLkjLKTCcLGmi8xhkAHHg=w240-h480-rw",
       "downloadLinks": [
         {
           "name": "SEARCH ON GOOGLE",
