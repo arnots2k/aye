@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "PPSA31246",
+      "title": "[FPKG] RESIDENT EVIL requiem Deluxe Edition [PPSA31246]",
+      "category": "game",
+      "version": "4.xx BackPort",
+      "sizeBytes": 77309411328,
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_1/Resident_Evil_Requiem_Deluxe_Edition.avif",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [datanods]",
+          "url": "https://datanodes.to/j889gbkx9l0f/PPSA31246-Compressed.7z"
+        }
+        ,{
+          "name": "Download [filekeeper]",
+          "url": "https://filekeeper.net/evqjzk0dtv1e/PPSA31246-Compressed.7z"
+        }
+        ,{
+          "name": "Download [vikingfile]",
+          "url": "https://vikingfile.com/f/i0UsKKt2BJ6"
+        }
+        ,{
+          "name": "Download [akirabox]",
+          "url": "https://akirabox.com/E1x3AZdaRzyk/file"
+        }
+	,{
+          "name": "DLC [akirabox]",
+          "url": "https://akirabox.com/E9Qz9Av1bzOL/file"
+        }
+	,{
+          "name": "DLC [datanods]",
+          "url": "https://datanodes.to/50xvktcjim7x/DLCs_dunaevnick.rar"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA26679",
       "title": "Ninja Gaiden Black II - PS5 [PPSA26679]",
       "category": "game",
