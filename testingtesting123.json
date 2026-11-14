@@ -11,7 +11,12 @@
       "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_1/Resident_Evil_Requiem_Deluxe_Edition.avif",
       "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
       "downloadLinks": [
-        {
+		  {
+          "name": "Direct FPKG Download *TEST* [vikingfile]",
+          "url": "https://vikingfile.com/d/TFSG8IpymL/EP0102-PPSA31246_00-REREQUIEM0000000.pkg"
+        }
+        ,
+		  {
           "name": "Download [datanods]",
           "url": "https://datanodes.to/j889gbkx9l0f/PPSA31246-Compressed.7z"
         }
