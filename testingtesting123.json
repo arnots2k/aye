@@ -3,6 +3,53 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "PPSA26679",
+      "title": "Ninja Gaiden Black II - PS5 [PPSA26679]",
+      "category": "game",
+      "version": "9.xx+",
+      "sizeBytes": 92878667776,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Dying-Light-2-Stay-Human-PS4-PKG.webp",
+      "description": "<p>ZSTD 86.5GB - Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10</p>",
+      "downloadLinks": [
+        {
+          "name": "Download Part 1 [viki]",
+          "url": "https://vikingfile.com/f/595wC15JUo"
+        }
+        ,{
+          "name": "Download Part 2 [viki]",
+          "url": "https://vikingfile.com/f/W1nhRfazvi"
+        }
+        ,{
+          "name": "Download Part 3 [viki]",
+          "url": "https://vikingfile.com/f/oOG2ebpvnQ"
+        }
+        ,{
+          "name": "Download Part 4 [viki]",
+          "url": "https://vikingfile.com/f/5tcyrbR3Hr"
+        }
+        ,{
+          "name": "Download Part 5 [viki]",
+          "url": "https://vikingfile.com/f/YHaEp6XXcw"
+        }
+        ,{
+          "name": "Download Part 6 [viki]",
+          "url": "https://vikingfile.com/f/2ItCYa66v0"
+        }
+        ,{
+          "name": "Download Part 7 [viki]",
+          "url": "https://vikingfile.com/f/tpmKPw8vtv"
+        }
+        ,{
+          "name": "Download Part 8 [viki]",
+          "url": "https://vikingfile.com/f/cQnC3F33Z0"
+        }
+        ,{
+          "name": "Download Part 9 [viki]",
+          "url": "https://vikingfile.com/f/VcJ8BGS2Ax"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA12555",
       "title": "Dying Light 2 Stay Human PS4 [CUSA12555 – EUR]",
       "category": "game",
