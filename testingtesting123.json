@@ -39,7 +39,7 @@
       "category": "game",
       "version": "4.xx BackPort",
       "sizeBytes": 77309411328,
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_1/Resident_Evil_Requiem_Deluxe_Edition.avif",
+      "posterUrl": "https://cdn1.epicgames.com/spt-assets/b2e589fac93746fc8d20b4177f5b3a60/resident-evil-requiem-i43vz.png",
       "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
       "downloadLinks": [
 		  {
