@@ -8,7 +8,7 @@
       "category": "game",
       "version": "9.xx+",
       "sizeBytes": 92878667776,
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Dying-Light-2-Stay-Human-PS4-PKG.webp",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5h7cjNWhA_Lhoii0-fEF358IMUFYhdEGDajTqlqV8ryDzXR5iVuUto6Q&s=10",
       "description": "<p>ZSTD 86.5GB - Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10</p>",
       "downloadLinks": [
         {
@@ -46,6 +46,29 @@
         ,{
           "name": "Download Part 9 [viki]",
           "url": "https://vikingfile.com/f/VcJ8BGS2Ax"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA05933",
+      "title": "Kingdom Hearts HD 1.5 & 2.5 Remix - PS4 [CUSA05933 – USA]",
+      "category": "game",
+      "version": "1.05",
+      "sizeBytes": 53687091200,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Kingdom-Hearts-HD-1.5-2.5-Remix-PS4-PKG.webp",
+      "description": "<p>Kingdom Hearts 1.5 is a beloved action RPG developed by Square Enix, combining Disney worlds and characters with the magical world of Final Fantasy. This remasteKingdom Hearts HD 1.5 & 2.5 Remix is a spectacular collection that brings together remastered versions of the first two Kingdom Hearts games and their key expansions. Players will embark on epic journeys across Disney worlds alongside iconic characters like Sora, Donald, and Goofy. The collection includes enhanced visuals, remastered music, and bonus content. </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/4yLN1n4U18"
+        }
+        ,{
+          "name": "Update v1.04 [viki]",
+          "url": "https://vikingfile.com/f/MG9eyZzerF"
+        }
+        ,{
+          "name": "Update v1.05 [viki]",
+          "url": "https://vikingfile.com/f/CTQJNHOplc"
         }
       ]
     },
