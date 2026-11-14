@@ -3,6 +3,37 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "PPSA14322",
+      "title": "[FPKG] Patapon 3 [PPSA14322]",
+      "category": "game",
+      "version": "v01.000.003",
+      "sizeBytes": 2147483648,
+      "posterUrl": "https://pbs.twimg.com/media/GjeYnmPWAAAXiLF?format=webp&name=large",
+      "description": "<p>4.xx BackPort FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download FPKG direct *test* [vikingfile]",
+          "url": "https://vikingfile.com/d/GrOjhWVRbe/UP9000-PPSA14322_00-UCUS987510000000.pkg"
+        }
+        ,{
+          "name": "Download rar.7z [vikingfile]",
+          "url": "https://vikingfile.com/f/gN1hlSzixu"
+        }
+        ,{
+          "name": "Download [filekeeper]",
+          "url": "https://filekeeper.net/1qyb2w1ytm57/PPSA14322-Compressed.7z"
+        }
+        ,{
+          "name": "Download [akirabox]",
+          "url": "https://akirabox.com/0KezkK991zD1/file"
+        }
+		,{
+          "name": "Download [datanods]",
+          "url": "https://datanodes.to/83k4kafblbyt/PPSA14322-Compressed.7z"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA31246",
       "title": "[FPKG] RESIDENT EVIL requiem Deluxe Edition [PPSA31246]",
       "category": "game",
