@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA50617",
+      "title": "Elden Ring Nightreign PS4 [CUSA50617 – EUR]",
+      "category": "game",
+      "version": "v1.22",
+      "sizeBytes": 13958643712,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/05/Elden-Ring-Nightreign-PS4-PKG.webp",
+      "description": "<p>Elden Ring: Nightreign is a fan-created reimagining set in the expansive world of Elden Ring. Offering new lore, enhanced challenges, and unique bosses, this mod expands on the dark fantasy narrative FromSoftware is known for. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/oSATOC5tdktqdP-0xyaNrxFQ8h4o3jL9"
+        }
+        ,{
+          "name": "Update v1.22 [mocha]",
+          "url": "https://mocha.my/share/OyVKWpWRUnlmvIXMDvD6RhOgO_QECc2N"
+        }
+	,{
+          "name": "DLC [mocha]",
+          "url": "https://mocha.my/share/2xK7I70P2APoPHBd4sBf2D2uto3olYiE"
+        }
+        ,{
+          "name": "Game Download [viking]",
+          "url": "https://vikingfile.com/f/UTIhoHX2DV"
+        }
+        ,{
+          "name": "Update v1.22 [viking]",
+          "url": "https://vikingfile.com/f/lSXK8E8T1t"
+        }
+	,{
+          "name": "DLC [viking]",
+          "url": "https://vikingfile.com/f/OS0tahRLwN"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA25972",
       "title": "[PS5 PKG] CarX Street PS5 [PPSA25972 – EUR]",
       "category": "game",
