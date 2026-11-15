@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA25273",
+      "title": "THE KING OF FIGHTERS XV PS4 [CUSA25273 – EUR]",
+      "category": "game",
+      "version": "v2.41",
+      "sizeBytes": 34359738368,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/THE-KING-OF-FIGHTERS-XV-Standard-Edition-PS4-PKG.webp",
+      "description": "<p>The King of Fighters XV is an action fighting game developed by SNK CORPORATION and published by SNK and Koch Media. Released on February 17, 2022, for PlayStation 4, it continues the storied KOF series with its signature team-based fighting system and engaging characters. Players can enjoy the return of classic features like the parry system and Max Mode, alongside a variety of online modes. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/9lNSJdKMXaTIsJOt8xEK1_OH-r-obLFH"
+        }
+        ,{
+          "name": "Update Update v2.41 [mocha]",
+          "url": "https://mocha.my/share/k6nCigF63UN4KUIeERraci4V7lwE7Bhj"
+        }
+	,{
+          "name": "DLC Pack v5 [mocha]",
+          "url": "https://mocha.my/share/Wwl3dKMJHt7eaktbjtZd5DYy-7Jx2xV-"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA01765",
       "title": "Prototype 2 PS4 [CUSA01765 – EUR]",
       "category": "game",
