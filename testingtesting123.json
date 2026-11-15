@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA15633",
+      "title": "CarX Drift Racing Online PS4 [CUSA15633 – EUR]",
+      "category": "game",
+      "version": "v1.51",
+      "sizeBytes": 10737418240,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/CarX-Drift-Racing-Online-PS4-PKG.jpg",
+      "description": "<p>CarX Drift Racing Online is an exciting drifting game developed by CarX Technologies. It delivers a realistic drifting experience with a wide selection of customizable cars, detailed tracks, and extensive tuning options. Players can practice their drifting skills, customize their vehicles, compete on different tracks, and enjoy online multiplayer racing with other players.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [vikingfile]",
+          "url": "https://vikingfile.com/f/zsLmticJ3S"
+        }
+        ,{
+          "name": "Update Update v1.51 [vikingfile]",
+          "url": "https://vikingfile.com/f/FsxnmM1QJQ"
+        }
+	,{
+          "name": "* [*]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA25273",
       "title": "THE KING OF FIGHTERS XV PS4 [CUSA25273 – EUR]",
       "category": "game",
