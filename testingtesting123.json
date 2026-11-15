@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA31498",
+      "title": "Street Fighter 6 PS4 [CCUSA31498 – EUR]",
+      "category": "game",
+      "version": "v1.31",
+      "sizeBytes": 67645734912,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Street-Fighter-6-PS4-PKG.webp",
+      "description": "<p>Street Fighter 6 is a 2023 fighting game developed and published by Capcom. Released on June 2, 2023, for PlayStation 4, this seventh main entry in the Street Fighter series introduces the Drive Gauge system, designed to enhance player creativity with five different techniques.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [filekeeper]",
+          "url": "https://filekeeper.net/k9v79a6gaobn/%5BSuperPSX%5D-Street.Fighter.60-CUSA31498-EUR-Game_(v1.31)-PS4.pkg"
+        }
+        ,{
+          "name": "Update 1.31 [filekeeper]",
+          "url": "https://filekeeper.net/saw4ltn5trec/%5BSuperPSX%5D-Street.Fighter.60-CUSA31498-EUR-Update_1.31_(Fix_5.056.727.xx9.0011.00)-PS4.pkg"
+        }
+	,{
+          "name": "DLCs [filekeeper]",
+          "url": "https://filekeeper.net/vcm5zovjgrhq/%5BSuperPSX%5D-Street.Fighter.60-CUSA31498-EUR-DLC_(v2)-PS4.rar"
+        }
+	,{
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/vD61SMHzpsZGkAlqvihWVIdha5gsT4yY"
+        }
+        ,{
+          "name": "Update 1.31 [mocha]",
+          "url": "https://mocha.my/share/GOWY4xVtubqTTNwOyEPG69Nm3VPbeCMr"
+        }
+	,{
+          "name": "DLCs [mocha]",
+          "url": "https://mocha.my/share/gaNIJKgl-eMrz0ks9dpchUyoOGv0N3Jc"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA33096",
       "title": "Kizuna AI Touch the Beat PS4 [CUSA33096 – EUR]",
       "category": "game",
