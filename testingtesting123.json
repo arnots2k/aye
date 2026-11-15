@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA47038",
+      "title": "Metaphor ReFantazio Atlus 35th Digital Anniversary Edition PS4 [CUSA47038 – USA]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 42949672960,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/10/Metaphor-ReFantazio-PS4-PKG.webp",
+      "description": "<p>Metaphor ReFantazio is an imaginative adventure game that invites players to explore a beautifully crafted world filled with metaphorical landscapes and rich storytelling.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/Ws-gmZyXsaPMfqpdbQdY0vRJlpLa0FtC"
+        }
+        ,{
+          "name": "Update v1.09 [mocha]",
+          "url": "https://mocha.my/share/-vGQ7YbC0v5bkR2QKY4ksXZC0VQOxVUg"
+        }
+	,{
+          "name": "DLCs [mocha]",
+          "url": "https://mocha.my/share/Po4j_12Ms5LL_bukwAKfbeyPWq9ykFpX"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA35844",
       "title": "Jujutsu Kaisen Cursed Clash Ultimate Edition PS4 [CUSA35844 – EUR]",
       "category": "game",
