@@ -1,0 +1,1095 @@
+{
+  "name": "SuperPSX PS4 by ARNOTS",
+	"version": 1,
+  "packages": [
+	      {
+      "titleId": "CUSA14836",
+      "title": "Catherine Full Body Digital Deluxe Edition PS4 [CUSA14836 – USA]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 13099650253,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/08/Catherine-Full-Body-Digital-Deluxe-Edition-PS4-PKG.jpg",
+      "description": "<p>Catherine: Full Body Digital Deluxe Edition is an enhanced puzzle-adventure game developed by Atlus and published by SEGA. The game follows Vincent as he becomes caught between relationships, strange nightmares, and challenging tower-climbing puzzles. The Digital Deluxe Edition includes the full game along with four DLC packs, adding playable characters, additional voice options, Persona 5’s Joker and Phantom Thieves commentary, and bonus content. The PS4 version offers a deeper and more complete Catherine experience with new story content, puzzle variations, and additional endings.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [filekeeper]",
+          "url": "https://filekeeper.net/99pn5d2o7n16/%5BSuperPSX%5D-Catherine.Full.Body.Digital.Deluxe.Edition-CUSA14836-USA-Game-PS4.pkg"
+        }
+        ,{
+          "name": "No Update [filekeeper]",
+          "url": "*"
+        }
+	,{
+          "name": "DLC [filekeeper]",
+          "url": "https://filekeeper.net/50hyn4om0to7/%5BSuperPSX%5D-Catherine.Full.Body.Digital.Deluxe.Edition-CUSA14836-USA-DLC-PS4.rar"
+        }
+	,{
+          "name": "Game Download [akirabox]",
+          "url": "https://akirabox.com/1RgzR91bb3bp/file"
+        }
+        ,{
+          "name": "No Update [mocha]",
+          "url": "*"
+        }
+	,{
+          "name": "DLC [akirabox]",
+          "url": "https://akirabox.com/k0embbjLnmVb/file"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA16163",
+      "title": "Bayonetta PS4 [CUSA16163 – EUR]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 12884901888,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Bayonetta-PS4-PKG.webp",
+      "description": "<p>Bayonetta is a high-octane action game developed by PlatinumGames and published by Sega. Known for its fast-paced combat, dynamic storytelling, and mesmerizing visuals, Bayonetta offers players an unforgettable experience as they battle through hordes of enemies using an array of over-the-top moves.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [filekeeper]",
+          "url": "https://filekeeper.net/fmu9m8uak6pm/%5BSuperPSX%5D-Bayonetta-CUSA16163-EUR-Game-(6.50+)-PS4.pkg"
+        }
+        ,{
+          "name": "Update 1.01 [filekeeper]",
+          "url": "https://filekeeper.net/83jvhz0iqag8/%5BSuperPSX%5D-Bayonetta-CUSA16163-EUR-v1.01-(Fix_5.05)-PS4.pkg"
+        }
+	,{
+          "name": "No DLCs [filekeeper]",
+          "url": "*"
+        }
+	,{
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/YjI4THtARwtpOsM5qgLeNxqB0CmgzJn9"
+        }
+        ,{
+          "name": "Update 1.31 [mocha]",
+          "url": "https://mocha.my/share/8gyjaNtEGlQQOsoLA8emESnTKBj0gRDg"
+        }
+	,{
+          "name": "No DLCs [mocha]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA31498",
+      "title": "Street Fighter 6 PS4 [CUSA31498 – EUR]",
+      "category": "game",
+      "version": "v1.31",
+      "sizeBytes": 67645734912,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Street-Fighter-6-PS4-PKG.webp",
+      "description": "<p>Street Fighter 6 is a 2023 fighting game developed and published by Capcom. Released on June 2, 2023, for PlayStation 4, this seventh main entry in the Street Fighter series introduces the Drive Gauge system, designed to enhance player creativity with five different techniques.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [filekeeper]",
+          "url": "https://filekeeper.net/k9v79a6gaobn/%5BSuperPSX%5D-Street.Fighter.60-CUSA31498-EUR-Game_(v1.31)-PS4.pkg"
+        }
+        ,{
+          "name": "Update 1.31 [filekeeper]",
+          "url": "https://filekeeper.net/saw4ltn5trec/%5BSuperPSX%5D-Street.Fighter.60-CUSA31498-EUR-Update_1.31_(Fix_5.056.727.xx9.0011.00)-PS4.pkg"
+        }
+	,{
+          "name": "DLCs [filekeeper]",
+          "url": "https://filekeeper.net/vcm5zovjgrhq/%5BSuperPSX%5D-Street.Fighter.60-CUSA31498-EUR-DLC_(v2)-PS4.rar"
+        }
+	,{
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/vD61SMHzpsZGkAlqvihWVIdha5gsT4yY"
+        }
+        ,{
+          "name": "Update 1.31 [mocha]",
+          "url": "https://mocha.my/share/GOWY4xVtubqTTNwOyEPG69Nm3VPbeCMr"
+        }
+	,{
+          "name": "DLCs [mocha]",
+          "url": "https://mocha.my/share/gaNIJKgl-eMrz0ks9dpchUyoOGv0N3Jc"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA33096",
+      "title": "Kizuna AI Touch the Beat PS4 [CUSA33096 – EUR]",
+      "category": "game",
+      "version": "v1.03",
+      "sizeBytes": 2899102924.8,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/08/Kizuna-AI-Touch-the-Beat-PS4-PKG.jpg",
+      "description": "<p>Kizuna AI – Touch the Beat! is a rhythm game featuring virtual YouTuber Kizuna AI, developed by Gemdrops and published by Gemdrops. Players can enjoy a collection of energetic musical performances while interacting with Kizuna AI in a colorful virtual environment. The game features rhythm-based gameplay, a variety of songs, and an immersive stage experience designed for fans of music and virtual performers.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [filekeeper]",
+          "url": "https://filekeeper.net/xunwtkwzmsks/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-Game-PS4-OPOISSO893OPOISSO893.pkg"
+        }
+        ,{
+          "name": "Update 1.03 [filekeeper]",
+          "url": "https://filekeeper.net/v4jqjzmfujmh/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-Update_1.03_(Fix_5.05+)-PS4-OPOISSO893.pkg"
+        }
+	,{
+          "name": "All 3 DLCs [filekeeper]",
+          "url": "https://filekeeper.net/3qq9378gmh4k/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-DLC-PS4-OPOISSO893.rar"
+        }
+	,{
+          "name": "Game Download [vikingfile]",
+          "url": "*"
+        }
+        ,{
+          "name": "Update 1.32 [vikingfile]",
+          "url": "*"
+        }
+	,{
+          "name": "All 43 DLCs [vikingfile]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA32803",
+      "title": "Granblue Fantasy Relink Digital Deluxe Edition PS4 [CUSA32803 – USA]",
+      "category": "game",
+      "version": "v1.32",
+      "sizeBytes": 24696061952,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "description": "<p>Granblue Fantasy Relink Digital Deluxe Edition is a 2024 action role-playing game developed and published by Cygames. Released on February 1, 2024, for PlayStation 4, this game invites you to embark on a grand adventure in the sky. Assemble a party of four Skyfarers from a diverse roster and battle treacherous enemies using a mix of slashing, shooting, and magic. Whether you choose to explore solo or join forces in up to 4-player co-op play, the experience is thrilling.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/nNWGMU6spLzVD_-QU0A3XdbO71ZZk4TR"
+        }
+        ,{
+          "name": "Update 1.32 [mocha]",
+          "url": "https://mocha.my/share/DtX_xbJbYm5BYm6TPAPRRDGreGh3FaDO"
+        }
+	,{
+          "name": "All 43 DLCs [mocha]",
+          "url": "https://mocha.my/share/xFiphJ18PFg0h2LajN3rHGkLL1RqBu-q"
+        }
+	,{
+          "name": "Game Download [vikingfile]",
+          "url": "https://vikingfile.com/f/9LUS49JViV"
+        }
+        ,{
+          "name": "Update 1.32 [vikingfile]",
+          "url": "https://vikingfile.com/f/KVWLNdjoYE"
+        }
+	,{
+          "name": "All 43 DLCs [vikingfile]",
+          "url": "https://vikingfile.com/f/MYwdKBynB7"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA12824",
+      "title": "Hogwarts Legacy PS4 [CUSA12824 – USA]",
+      "category": "game",
+      "version": "v1.06",
+      "sizeBytes": 38654705664,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/02/Hogwarts-Legacy-PS4-PKG.webp",
+      "description": "<p>Hogwarts Legacy is a 2023 action role-playing game developed by Avalanche Software and published by Warner Bros. Experience Hogwarts in the 1800s with your character as a student who holds the key to an ancient secret threatening the wizarding world. Discover the magic of living at Hogwarts, making allies, battling Dark Wizards, and shaping the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/EHBjInLQnXY7C1zf_L6j5egMqtrP3Sn8"
+        }
+        ,{
+          "name": "Game Info Fix [mocha]",
+          "url": "https://mocha.my/share/6UcFpmU_P4-4wuRtuc5TZxQlvrpqOwGU"
+        }
+	,{
+          "name": "DLC [mocha]",
+          "url": "https://mocha.my/share/iUOoMMi2dWGJxGIe6_sjyhL0iUANj42A"
+        }
+	,{
+          "name": "Game Download [vikingfile]",
+          "url": "https://vikingfile.com/f/iOKsnqLTZi"
+        }
+        ,{
+          "name": "Game Info Fix [vikingfile]",
+          "url": "https://vikingfile.com/f/qoOQiktGTK"
+        }
+	,{
+          "name": "DLC [vikingfile]",
+          "url": "https://vikingfile.com/f/7N20jcbcQp"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA07820",
+      "title": "The Last of Us Part 2 PS4 [CUSA07820 – USA]",
+      "category": "game",
+      "version": "v1.09",
+      "sizeBytes": 96636764160,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/03/The-Last-of-Us-Part-2-PS4-PKG.webp",
+      "description": "<p>The Last of Us Part 2 is an intense action-adventure game that explores the devastating physical and emotional repercussions of revenge. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/VO5HvJnI0ujquInD4ATpZdLN2sFGKB8u"
+        }
+        ,{
+          "name": "Update v1.09 [mocha]",
+          "url": "https://mocha.my/share/o_vwN0C_0AbNMY2OZVfS3TfvhnNCXkCw"
+        }
+	,{
+          "name": "Pre-Order DLC & Bonus [mocha]",
+          "url": "https://mocha.my/share/3so1J1wZ4Zan5JPJWYF9b8fgDmCPefQV"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA50617",
+      "title": "Elden Ring Nightreign PS4 [CUSA50617 – EUR]",
+      "category": "game",
+      "version": "v1.22",
+      "sizeBytes": 13958643712,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/05/Elden-Ring-Nightreign-PS4-PKG.webp",
+      "description": "<p>Elden Ring: Nightreign is a fan-created reimagining set in the expansive world of Elden Ring. Offering new lore, enhanced challenges, and unique bosses, this mod expands on the dark fantasy narrative FromSoftware is known for. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/oSATOC5tdktqdP-0xyaNrxFQ8h4o3jL9"
+        }
+        ,{
+          "name": "Update v1.22 [mocha]",
+          "url": "https://mocha.my/share/OyVKWpWRUnlmvIXMDvD6RhOgO_QECc2N"
+        }
+	,{
+          "name": "DLC [mocha]",
+          "url": "https://mocha.my/share/2xK7I70P2APoPHBd4sBf2D2uto3olYiE"
+        }
+        ,{
+          "name": "Game Download [viking]",
+          "url": "https://vikingfile.com/f/UTIhoHX2DV"
+        }
+        ,{
+          "name": "Update v1.22 [viking]",
+          "url": "https://vikingfile.com/f/lSXK8E8T1t"
+        }
+	,{
+          "name": "DLC [viking]",
+          "url": "https://vikingfile.com/f/OS0tahRLwN"
+        }
+      ]
+    },
+	      {
+      "titleId": "PPSA25972",
+      "title": "[PS5 PKG] CarX Street PS5 [PPSA25972 – EUR]",
+      "category": "game",
+      "version": "v01.043",
+      "sizeBytes": 18253611008,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/CarX-Street-PS5.jpg",
+      "description": "<p>CarX Street is an open-world street racing game that combines realistic driving physics, detailed car customization, competitive races, and a sprawling urban environment. Developed by CarX Technologies, the game lets players explore Sunset City, build and customize their dream cars, compete in high-speed street races, and develop their reputation across different racing clubs. Master challenging corners, tune your vehicle for different events, and experience a dynamic driving world designed for racing enthusiasts. CarX Street PS5 game is available on PlayStation 5. Game updates and DLCs can be seamlessly installed through the official game platform.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/iruPG9CqGN2rfbqSactzgVG57Sqna9tC"
+        }
+        ,{
+          "name": "Game Download [vikingfile]",
+          "url": "https://https://vikingfile.com/f/TwBAPxeBz7"
+        }
+	,{
+          "name": "* [*]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA15633",
+      "title": "CarX Drift Racing Online PS4 [CUSA15633 – EUR]",
+      "category": "game",
+      "version": "v1.51",
+      "sizeBytes": 10737418240,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/CarX-Drift-Racing-Online-PS4-PKG.jpg",
+      "description": "<p>CarX Drift Racing Online is an exciting drifting game developed by CarX Technologies. It delivers a realistic drifting experience with a wide selection of customizable cars, detailed tracks, and extensive tuning options. Players can practice their drifting skills, customize their vehicles, compete on different tracks, and enjoy online multiplayer racing with other players.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [vikingfile]",
+          "url": "https://vikingfile.com/f/zsLmticJ3S"
+        }
+        ,{
+          "name": "Update Update v1.51 [vikingfile]",
+          "url": "https://vikingfile.com/f/FsxnmM1QJQ"
+        }
+	,{
+          "name": "* [*]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA25273",
+      "title": "THE KING OF FIGHTERS XV PS4 [CUSA25273 – EUR]",
+      "category": "game",
+      "version": "v2.41",
+      "sizeBytes": 34359738368,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/THE-KING-OF-FIGHTERS-XV-Standard-Edition-PS4-PKG.webp",
+      "description": "<p>The King of Fighters XV is an action fighting game developed by SNK CORPORATION and published by SNK and Koch Media. Released on February 17, 2022, for PlayStation 4, it continues the storied KOF series with its signature team-based fighting system and engaging characters. Players can enjoy the return of classic features like the parry system and Max Mode, alongside a variety of online modes. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/9lNSJdKMXaTIsJOt8xEK1_OH-r-obLFH"
+        }
+        ,{
+          "name": "Update Update v2.41 [mocha]",
+          "url": "https://mocha.my/share/k6nCigF63UN4KUIeERraci4V7lwE7Bhj"
+        }
+	,{
+          "name": "DLC Pack v5 [mocha]",
+          "url": "https://mocha.my/share/Wwl3dKMJHt7eaktbjtZd5DYy-7Jx2xV-"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA01765",
+      "title": "Prototype 2 PS4 [CUSA01765 – EUR]",
+      "category": "game",
+      "version": "v1.00",
+      "sizeBytes": 9663676416,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Prototype-2-PS4-PKG.webp",
+      "description": "<p>Prototype 2 is the sequel to the critically acclaimed open-world action game Prototype, developed by Radical Entertainment. In this installment, players take on the role of James Heller, a man seeking revenge against the protagonist of the first game, Alex Mercer. With new powers, a deep storyline, and a more refined combat system, Prototype 2 delivers a thrilling experience that allows players to shape-shift, consume enemies, and wreak havoc in a newly re-imagined version of New York.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/s7FPj9BvTrdGEPIL6FLdsBdIzW7wNaCf"
+        }
+        ,{
+          "name": "No Update [*]",
+          "url": "*"
+        }
+	,{
+          "name": "No DLC [*]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA01766",
+      "title": "Prototype PS4 [CUSA01766 – EUR]",
+      "category": "game",
+      "version": "v1.00",
+      "sizeBytes": 7516192768,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Prototype-PS4-PKG.webp",
+      "description": "<p>Prototype is an open-world action game developed by Radical Entertainment. The game offers a gripping experience with a thrilling story and a unique combat system where players take control of Alex Mercer, a man with the ability to shapeshift and absorb other characters’ powers. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/SxDPTCHQnmSsREhdyr_0ihnPIF0LEE_C"
+        }
+        ,{
+          "name": "No Update [*]",
+          "url": "*"
+        }
+	,{
+          "name": "No DLC [*]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA08809",
+      "title": "Shadow of The Colossus PS4 [CUSA08809 – EUR]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 13958643712,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/11/Shadow-of-the-Colossus-PS4-PKG.webp",
+      "description": "<p>Shadow of the Colossus is a stunning action-adventure game developed by Bluepoint Games and published by Sony Interactive Entertainment. The remastered version for PS4 brings breathtaking visuals and enhanced gameplay mechanics, offering players the chance to relive the classic tale of Wander and his quest to defeat 16 Colossi.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/TkvpO1-qPAPwozIHB__tZhsJ8RfuNIzC"
+        }
+        ,{
+          "name": "Update v1.01 [mocha]",
+          "url": "https://mocha.my/share/d-OdF2xRJcfxYiAazZVmtiE1BtWnTDZY"
+        }
+	,{
+          "name": "DLC [mocha]",
+          "url": "https://mocha.my/share/xvdGkdsaKc98m9OwGUS1uzbWYwiWZrAC"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA44075",
+      "title": "Teenage Mutant Ninja Turtles Mutants Unleashed PS4 [CUSA44075 – EUR]",
+      "category": "game",
+      "version": "v1.03",
+      "sizeBytes": 6442450944,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/10/Teenage-Mutant-Ninja-Turtles-Mutants-Unleashed-PS4-PKG.webp",
+      "description": "<p>Teenage Mutant Ninja Turtles: Mutants Unleashed is an action-packed beat ’em up game that immerses players in the iconic world of the Teenage Mutant Ninja Turtles. In this thrilling adventure, players can join Leonardo, Michelangelo, Donatello, and Raphael as they battle against a variety of foes to save New York City. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/w-tjEenu3X0WcaGiN6r2QwN6H0WFtmag"
+        }
+        ,{
+          "name": "Update v1.03 [mocha]",
+          "url": "https://mocha.my/share/08YooAUk7VEw8kyCbI2kMaXxOcqS_GfQ"
+        }
+	,{
+          "name": "DLC v2 [mocha]",
+          "url": "https://mocha.my/share/yDd_65hnCyMTLLFAEFc0SUm6QfCg8wx3"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA44422",
+      "title": "ONIC X SHADOW GENERATIONS PS4 [CUSA44422 – USA]",
+      "category": "game",
+      "version": "v1.10",
+      "sizeBytes": 21474836480,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/10/SONIC-X-SHADOW-GENERATIONS-PS4-PKG.webp",
+      "description": "<p>SONIC X SHADOW GENERATIONS is an exciting platforming adventure game that combines the beloved characters of Sonic the Hedgehog and Shadow the Hedgehog.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/uTNdQ46LBCcDzJY4h8K8D6BLsMBLOb_i"
+        }
+        ,{
+          "name": "Update v1.10 [mocha]",
+          "url": "https://mocha.my/share/TMfARzQpb81qed3cW0AsPOdrl1_g8Crj"
+        }
+	,{
+          "name": "DLC v2 [mocha]",
+          "url": "https://mocha.my/share/3AObCM3l_MKyHmaa9sYB2lmu7BfuyB2w"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA47038",
+      "title": "Metaphor ReFantazio Atlus 35th Digital Anniversary Edition PS4 [CUSA47038 – USA]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 42949672960,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/10/Metaphor-ReFantazio-PS4-PKG.webp",
+      "description": "<p>Metaphor ReFantazio is an imaginative adventure game that invites players to explore a beautifully crafted world filled with metaphorical landscapes and rich storytelling.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/Ws-gmZyXsaPMfqpdbQdY0vRJlpLa0FtC"
+        }
+        ,{
+          "name": "Update v1.09 [mocha]",
+          "url": "https://mocha.my/share/-vGQ7YbC0v5bkR2QKY4ksXZC0VQOxVUg"
+        }
+	,{
+          "name": "DLCs [mocha]",
+          "url": "https://mocha.my/share/Po4j_12Ms5LL_bukwAKfbeyPWq9ykFpX"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA35844",
+      "title": "Jujutsu Kaisen Cursed Clash Ultimate Edition PS4 [CUSA35844 – EUR]",
+      "category": "game",
+      "version": "v1.40",
+      "sizeBytes": 45097156608,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Jujutsu-Kaisen-Cursed-Clash-Ultimate-Edition-PS4-PKG.webp",
+      "description": "<p>Jujutsu Kaisen Cursed Clash Ultimate Edition is a thrilling action-packed fighting game based on the popular anime and manga series Jujutsu Kaisen. This ultimate edition features enhanced gameplay, additional characters, and exclusive content, making it the ultimate choice for fans of the series. </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [mocha]",
+          "url": "https://mocha.my/share/Y5fv0RAGzcoufQebN3NBVRuRNJSCsziF"
+        }
+        ,{
+          "name": "Update v1.40 [mocha]",
+          "url": "https://mocha.my/share/TTtnYWWuYAdFrFpRlC771aInyl1jzxFg"
+        }
+      ]
+    },
+	      {
+      "titleId": "PPSA14322",
+      "title": "[FPKG] Patapon 3 [PPSA14322]",
+      "category": "game",
+      "version": "v01.000.003",
+      "sizeBytes": 2147483648,
+      "posterUrl": "https://pbs.twimg.com/media/GjeYnmPWAAAXiLF?format=webp&name=large",
+      "description": "<p>4.xx BackPort FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download FPKG direct *test* [vikingfile]",
+          "url": "https://vikingfile.com/d/GrOjhWVRbe/UP9000-PPSA14322_00-UCUS987510000000.pkg"
+        }
+        ,{
+          "name": "Download rar.7z [vikingfile]",
+          "url": "https://vikingfile.com/f/gN1hlSzixu"
+        }
+        ,{
+          "name": "Download [filekeeper]",
+          "url": "https://filekeeper.net/1qyb2w1ytm57/PPSA14322-Compressed.7z"
+        }
+        ,{
+          "name": "Download [akirabox]",
+          "url": "https://akirabox.com/0KezkK991zD1/file"
+        }
+		,{
+          "name": "Download [datanods]",
+          "url": "https://datanodes.to/83k4kafblbyt/PPSA14322-Compressed.7z"
+        }
+      ]
+    },
+	      {
+      "titleId": "PPSA31246",
+      "title": "[FPKG] RESIDENT EVIL requiem Deluxe Edition [PPSA31246]",
+      "category": "game",
+      "version": "4.xx BackPort",
+      "sizeBytes": 77309411328,
+      "posterUrl": "https://cdn1.epicgames.com/spt-assets/b2e589fac93746fc8d20b4177f5b3a60/resident-evil-requiem-i43vz.png",
+      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
+      "downloadLinks": [
+		  {
+          "name": "Direct FPKG Download *TEST* [vikingfile]",
+          "url": "https://vikingfile.com/d/TFSG8IpymL/EP0102-PPSA31246_00-REREQUIEM0000000.pkg"
+        }
+        ,
+		  {
+          "name": "Download [datanods]",
+          "url": "https://datanodes.to/j889gbkx9l0f/PPSA31246-Compressed.7z"
+        }
+        ,{
+          "name": "Download [filekeeper]",
+          "url": "https://filekeeper.net/evqjzk0dtv1e/PPSA31246-Compressed.7z"
+        }
+        ,{
+          "name": "Download [vikingfile]",
+          "url": "https://vikingfile.com/f/i0UsKKt2BJ6"
+        }
+        ,{
+          "name": "Download [akirabox]",
+          "url": "https://akirabox.com/E1x3AZdaRzyk/file"
+        }
+	,{
+          "name": "DLC [akirabox]",
+          "url": "https://akirabox.com/E9Qz9Av1bzOL/file"
+        }
+	,{
+          "name": "DLC [datanods]",
+          "url": "https://datanodes.to/50xvktcjim7x/DLCs_dunaevnick.rar"
+        }
+      ]
+    },
+	      {
+      "titleId": "PPSA26679",
+      "title": "Ninja Gaiden Black II - PS5 [PPSA26679]",
+      "category": "game",
+      "version": "9.xx+",
+      "sizeBytes": 92878667776,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5h7cjNWhA_Lhoii0-fEF358IMUFYhdEGDajTqlqV8ryDzXR5iVuUto6Q&s=10",
+      "description": "<p>ZSTD 86.5GB - Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10</p>",
+      "downloadLinks": [
+        {
+          "name": "Download Part 1 [viki]",
+          "url": "https://vikingfile.com/f/595wC15JUo"
+        }
+        ,{
+          "name": "Download Part 2 [viki]",
+          "url": "https://vikingfile.com/f/W1nhRfazvi"
+        }
+        ,{
+          "name": "Download Part 3 [viki]",
+          "url": "https://vikingfile.com/f/oOG2ebpvnQ"
+        }
+        ,{
+          "name": "Download Part 4 [viki]",
+          "url": "https://vikingfile.com/f/5tcyrbR3Hr"
+        }
+        ,{
+          "name": "Download Part 5 [viki]",
+          "url": "https://vikingfile.com/f/YHaEp6XXcw"
+        }
+        ,{
+          "name": "Download Part 6 [viki]",
+          "url": "https://vikingfile.com/f/2ItCYa66v0"
+        }
+        ,{
+          "name": "Download Part 7 [viki]",
+          "url": "https://vikingfile.com/f/tpmKPw8vtv"
+        }
+        ,{
+          "name": "Download Part 8 [viki]",
+          "url": "https://vikingfile.com/f/cQnC3F33Z0"
+        }
+        ,{
+          "name": "Download Part 9 [viki]",
+          "url": "https://vikingfile.com/f/VcJ8BGS2Ax"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA10872",
+      "title": "Shadow of The Tomb Raider Definitive Edition PS4 [CUSA10872 – EUR]",
+      "category": "game",
+      "version": "v2.01",
+      "sizeBytes": 37580963840,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Shadow-of-the-Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
+      "description": "<p>Shadow of the Tomb Raider: Definitive Edition is an action-adventure game developed by Eidos Montréal and published by Square Enix. Released on September 14, 2018, for the PlayStation 4, this game marks the twelfth main installment in the Tomb Raider series. Experience Lara Croft’s ultimate transformation into the legendary Tomb Raider with the Definitive Edition, which includes the base game, all seven DLC challenge tombs, and all additional weapons, outfits, and skills. - PASSWORD: SuperPSX </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [mocha]",
+          "url": "https://mocha.my/share/bdq4kkVZTPiQuhDgTa7eX2blChPDGRHo"
+        }
+        ,{
+          "name": "Update v2.01 [mocha]",
+          "url": "https://mocha.my/share/qgF3CKbQM7JBLy74GOMcff8psnXa2HhE"
+        }
+        ,{
+          "name": "DLC Unlock [mocha]",
+          "url": "https://mocha.my/share/-RQJqBpE3E6NlFlvLXh-1Md_-5a8dTuE"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA05794",
+      "title": "Rise of the Tomb Raider PS4 [CUSA05794 – USA]",
+      "category": "game",
+      "version": "v1.06",
+      "sizeBytes": 17394617549,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/06/Rise-of-the-Tomb-Raider-PS4-PKG.webp",
+      "description": "<p>Rise of the Tomb Raider is an action-adventure game developed by Crystal Dynamics and published by Square Enix and Microsoft Studios. It is the 11th major installment in the Tomb Raider series and was released on October 11, 2016. - PASSWORD: SuperPSX </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [mocha]",
+          "url": "https://mocha.my/share/5hyEshMyn0d4_jJRZMgi_AocBhIGq-am"
+        }
+        ,{
+          "name": "Update v1.06 [mocha]",
+          "url": "https://mocha.my/share/_4NutqEgXNa3NrooDifTzUQOZewk1prA"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA00107",
+      "title": "Tomb Raider Definitive Edition PS4 [CUSA00107 – USA]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 16106127360,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp",
+      "description": "<p>Tomb Raider Definitive Edition is an action-adventure game developed by Crystal Dynamics and published by Square Enix. This reimagining of the classic franchise features enhanced graphics and gameplay, allowing players to explore a vast world filled with challenging puzzles and fierce enemies. - PASSWORD: SuperPSX </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [mocha]",
+          "url": "https://mocha.my/share/w7I3wp_I5rkE7QVKdiNf8yX8-aahIM2c"
+        }
+        ,{
+          "name": "Update v1.01 [mocha]",
+          "url": "https://mocha.my/share/Z43yOH6aSmFhrnr7CwFqwwDAbnvznfJd"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA05933",
+      "title": "Kingdom Hearts HD 1.5 & 2.5 Remix - PS4 [CUSA05933 – USA]",
+      "category": "game",
+      "version": "1.05",
+      "sizeBytes": 53687091200,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Kingdom-Hearts-HD-1.5-2.5-Remix-PS4-PKG.webp",
+      "description": "<p>Kingdom Hearts 1.5 is a beloved action RPG developed by Square Enix, combining Disney worlds and characters with the magical world of Final Fantasy. This remasteKingdom Hearts HD 1.5 & 2.5 Remix is a spectacular collection that brings together remastered versions of the first two Kingdom Hearts games and their key expansions. Players will embark on epic journeys across Disney worlds alongside iconic characters like Sora, Donald, and Goofy. The collection includes enhanced visuals, remastered music, and bonus content. </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/4yLN1n4U18"
+        }
+        ,{
+          "name": "Update v1.04 [viki]",
+          "url": "https://vikingfile.com/f/MG9eyZzerF"
+        }
+        ,{
+          "name": "Update v1.05 [viki]",
+          "url": "https://vikingfile.com/f/CTQJNHOplc"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA12555",
+      "title": "Dying Light 2 Stay Human PS4 [CUSA12555 – EUR]",
+      "category": "game",
+      "version": "1.88",
+      "sizeBytes": 22011707392,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Dying-Light-2-Stay-Human-PS4-PKG.webp",
+      "description": "<p>Dying Light 2 Stay Human is an action-packed open-world survival horror game developed and published by Techland. Set in a post-apocalyptic world, players navigate a vast city overrun by the infected, using parkour skills and combat to survive.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [filekeeper]",
+          "url": "https://filekeeper.net/rupgzk6mvenm/%5BSPSX%5D-Dying.Light.2.Stay.Human_CUSA12555_v1.00_%5B9.00%5D_OPOISSO893.pkg"
+        }
+        ,{
+          "name": "Update v1.88 [viki]",
+          "url": "https://vikingfile.com/f/whxOautDCT"
+        }
+        ,{
+          "name": "DLC Ultimate [viki]",
+          "url": "https://vikingfile.com/f/xdO4eGUdEY"
+        }
+        ,{
+          "name": "DLC [viki]",
+          "url": "https://vikingfile.com/f/GFjTRJGZhm"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA33387",
+      "title": "Resident Evil 4 Remake Gold Edition PS4 [CUSA33387 – USA]",
+      "category": "game",
+      "version": "1.11",
+      "sizeBytes": 28991029248,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Resident-Evil-4-Gold-Edition-PS4-PKG.webp",
+      "description": "<p>Resident Evil 4 is a 2023 video game developed and published by Capcom. This remake of the 2005 classic retains the core elements that made the original a beloved title in the survival horror genre. Released on March 24, 2023, for PlayStation 4, PlayStation 5, Windows, and Xbox Series X/S, it brings enhanced graphics and gameplay to a new generation of players.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/zjyWPbAfHa"
+        }
+        ,{
+          "name": "Update v1.11 [viki]",
+          "url": "https://vikingfile.com/f/qXLua1xAzS"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA46747",
+      "title": "Marvel vs Capcom Fighting Collection Arcade Classics PS4 [CUSA46747 – JPN]",
+      "category": "game",
+      "version": "1.04",
+      "sizeBytes": 4294967296,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/11/Marvel-vs-Capcom-Fighting-Collection-PS4-PKG.webp",
+      "description": "<p>Marvel vs Capcom Fighting Collection brings together an exciting collection of classic arcade fighting games, showcasing legendary characters from both Marvel and Capcom universes. This collection features updated visuals, online multiplayer modes, and a robust set of options for both newcomers and veteran players alike.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [filek]",
+          "url": "https://filekeeper.net/3dsh1kzc7beu/%5BSPSX%5D-Marvel.vs.Capcom.Fighting.Collection-CUSA46747-JPN-Game-PS4.pkg"
+        }
+        ,{
+          "name": "Update v1.04 [rootz]",
+          "url": "https://www.rootz.so/d/1CGvKa"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA06638",
+      "title": "Persona 5 PS4 [CUSA06638 – EUR]",
+      "category": "game",
+      "version": "1.07",
+      "sizeBytes": 20615843021,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/04/Persona-5-PS4-PKG.webp",
+      "description": "<p>Persona 5 is a critically acclaimed role-playing and social simulation game. The PS4 fake PKG for Persona 5, including updates and DLC, is available for download. You can install this game on any exploited PlayStation 4 console via USB or FTP. Developed by P-Studio and published by Atlus and Deep Silver, Persona 5 is the sixth installment in the Persona series and was released on September 15, 2016. The game has received positive reviews from critics and players alike for its engaging gameplay and unique features.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/PgMMwlDIwz"
+        }
+        ,{
+          "name": "NO DLC [null]",
+          "url": "https://null"
+        }
+      ]
+    },
+        {
+      "titleId": "CUSA00004",
+      "title": "Infamous Second Son PS4 [CUSA00004 – EUR]",
+      "category": "game",
+      "version": "1.07",
+      "sizeBytes": 18038862643,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/03/Infamous-Second-Son-PS4-PKG.webp",
+      "description": "<p>Infamous Second Son is an action-adventure game developed by Sucker Punch Productions and published by Sony Computer Entertainment. The game is the third installment in the Infamous series and was released on March 21, 2014.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/CI4qghvqkl"
+        }
+        ,{
+          "name": "DLC [viki]",
+          "url": "https://vikingfile.com/f/sYUsopFiwP"
+        }
+      ]
+    },
+		{
+      "titleId": "CUSA03220",
+      "title": "Gran Turismo Sport PS4 [CUSA03220 – USA]",
+			"category": "game",
+      "version": "1.69",
+      "sizeBytes": 41000000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Gran-Turismo_SPORT-PS4-PKG.webp",
+      "description": "<p>Gran Turismo Sport is a 2017 racing video game developed by Polyphony Digital and published by Sony Interactive Entertainment. Released on October 17, 2017, for PlayStation 4, this installment of the Gran Turismo franchise offers enhanced graphics, sound, and physics for a highly realistic driving simulation experience.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [datanodes]",
+          "url": "https://datanodes.to/eis1vmrza1xg/[SuperPSX.com]-Gran.Turismo.Sport-CUSA03220-USA-Game-PS4-[High-Speed].pkg"
+        }
+        ,{
+          "name": "Update v1.69 [datanodes]",
+          "url": "https://datanodes.to/kc81176neea8/[SuperPSX.com]-Gran.Turismo.Sport-CUSA03220-USA-v1.69-[Fix_5.05-6.72-7.02-7.55-9.00]-CyB1K.pkg"
+        }
+      ]
+    },
+        {
+      "titleId": "CUSA28863",
+      "title": "Elden Ring PS4 [CUSA28863 – USA]",
+			"category": "game",
+      "version": "1.21",
+      "sizeBytes": 31000000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2022/06/Elden-Ring-PS4-PKG-1.jpg",
+      "description": "<p>Elden Ring is an action role-playing video game developed and published by FromSoftware. Released on June 21, 2024, for PlayStation 4, this expansion to the acclaimed 2022 Game of the Year, Elden Ring, offers players a dark and intense continuation of their quest. The game provides freedom to explore and experience the adventure at your own pace. </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/9BHX7XeI22"
+        }
+        ,{
+          "name": "Update 1.21 + All DLC Merged [viki]",
+          "url": "https://vikingfile.com/f/kDd1sjTFid"
+        }
+	  ]
+    },
+	  	{
+      "titleId": "CUSA56931",
+      "title": "Disney Pixar Toy Story Retro Roundup! PS4 [CUSA56931 – USA]",
+			"category": "game",
+      "version": "1.00",
+      "sizeBytes": 894300000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/11/Disney-Pixar-Toy-Story-Retro-Roundup-PS4-PKG.jpg",
+      "description": "<p>Disney•Pixar Toy Story: Retro Roundup! is a nostalgic, vibrant platform-adventure collection celebrating the timeless antics of Andy’s favorite toys on PlayStation 4. Featuring classic escapades and retro-inspired challenges alongside Woody, Buzz Lightyear, and the entire gang, players dash, leap, and lasso their way through iconic animated environments. The Disney Pixar Toy Story: Retro Roundup! PS4 Fake PKG is now available for download and installation, and game updates & DLC (PKG) can be seamlessly installed on any exploited PlayStation 4 using USB or FTP. Step back into Andy’s room and re-experience classic arcade-style toy adventures packed with family-friendly charm.</p>",
+      "downloadLinks": [
+        {
+          "name": "Download [viki]",
+          "url": "https://vikingfile.com/f/gzplHD2CNG"
+        }
+        ,{
+          "name": "Update v1.03 [viki]",
+          "url": "https://vikingfile.com/f/JD6mASHaFa"
+        }
+      ]
+    },
+	  	{
+      "titleId": "CUSA00093",
+      "title": "Driveclub PS4 [CUSA00093 – USA]",
+			"category": "game",
+      "version": "1.79",
+      "sizeBytes": 300000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Driveclub-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME",
+          "url": "https://vikingfile.com/f/CGLQNAQF6b"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://filekeeper.net/9j41x9cuxm5l/%5BSPSX%5D-DRIVECLUB-CUSA00093-USA-Game-(5.05+)-PS4.pkg"
+        },
+        {
+          "name": "Update 1.28",
+          "url": "https://vikingfile.com/f/AwL9nhsEyr"
+        },
+        {
+          "name": "Update 1.28 - 60FPS",
+          "url": "https://vikingfile.com/f/7ePBTuQ8IA"
+        },
+        {
+          "name": "All DLC",
+          "url": "https://vikingfile.com/f/bSO5foga0A"
+        }
+      ]
+    },
+	  	{
+      "titleId": "CUSA11456",
+      "title": "Ghost of Tsushima Directors Cut PS4 [CUSA11456 – USA]",
+			"category": "game",
+      "version": "1.79",
+      "sizeBytes": 43000000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Ghost-of-Tsushima-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME - US",
+          "url": "https://akirabox.com/RMKGJk5J1m1o/file"
+        },
+        {
+          "name": "FULL GAME CUSA13323 – EUR",
+          "url": "https://vikingfile.com/f/2Gl8wjy0Ld"
+        },
+        {
+          "name": "Update 2.18 - US",
+          "url": "https://akirabox.com/EL73gjB6Wm9B/file"
+        },
+        {
+          "name": "DLC Director Cut - US",
+          "url": "https://akirabox.com/2WVGrQK1Mzkx/file"
+        },
+        {
+          "name": "Update v2.24 - EUR",
+          "url": "https://vikingfile.com/f/VTYbhDyGVv"
+        },
+        {
+          "name": "All New DLCs - EUR",
+          "url": "https://vikingfile.com/f/Dak7l2UkUk"
+        }
+      ]
+	},
+	{
+      "titleId": "CUSA09263",
+      "title": "Devil May Cry HD Collection PS4 [CUSA09263 – EUR]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 16106127360,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Devil-May-Cry-HD-Collection-PS4-PKG.webp",
+      "description": "<p>Devil May Cry HD Collection PS4 is a hack-and-slash action-adventure game developed and published by Capcom. Released on March 13, 2018, the PS4 Fake PKG and ISO for Devil May Cry HD Collection are available for download.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/CG-mfFfnSMbAELFSjW_FSfVVShMgtuAA"
+        }
+        ,{
+          "name": "Update v1.01 [mocha]",
+          "url": "https://mocha.my/share/dlaR2pO0-60CRhEcfj8fxLQOBxN77Te8"
+        }
+      ]
+    },
+	 {
+      "titleId": "CUSA01022",
+      "title": "DmC Devil May Cry Definitive Edition PS4 [CUSA01022 – EUR]",
+      "category": "game",
+      "version": "v1.03",
+      "sizeBytes": 20401094656,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/DmC-Devil-May-Cry-Definitive-Edition-PS4-PKG.webp",
+      "description": "<p>DmC Devil May Cry Definitive Edition is an action-packed, fast-paced hack-and-slash game developed by Ninja Theory and published by Capcom. This definitive edition delivers enhanced graphics, smoother gameplay, and all previous downloadable content (DLC), ensuring players get the ultimate Dante experience. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/0r55G4CluwKqlenfZ5eE-GDmwSmL4qt1"
+        }
+        ,{
+          "name": "Update v1.03 [mocha]",
+          "url": "https://mocha.my/share/GpqloMV6KmYU_zKkGvRWjZi5iJulicks"
+        }
+      ]
+    },
+    	{
+      "titleId": "CUSA08161",
+      "title": "Devil May Cry 5 Deluxe Edition PS4 [CUSA08161 – EUR]",
+			"category": "game",
+      "version": "1.79",
+      "sizeBytes": 31000000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Devil-May-Cry-5-Special-Edition-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME",
+          "url": "https://akirabox.com/N2p3DeRARzMa/file"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://vikingfile.com/f/lUnGte9Wr7"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://1fichier.com/?fwmx60isp1u6r83meccd&af=4186346"
+        },
+        {
+          "name": "Update v1.10",
+          "url": "https://vikingfile.com/f/emjzPqrDgo"
+        },
+        {
+          "name": "All DLC Complete",
+          "url": "https://vikingfile.com/f/4x0gXeNifH"
+        }
+      ]
+    },
+	  	{
+      "titleId": "CUSA14030",
+      "title": "Marvel’s Avengers PS4 [CUSA14030 – EUR]",
+			"category": "game",
+      "version": "1.79",
+      "sizeBytes": 46000000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2021/03/Marvels-Avengers-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME",
+          "url": "https://vikingfile.com/f/BSlgPujB4t"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://filekeeper.net/978vwmyaxqnh/%5BSuperPSX%5D-Marvels.Avengers_CUSA14030_v1.00_%5B7.02%5D_OPOISSO893.rar"
+        },
+        {
+          "name": "FULL GAME",
+          "url": "https://1fichier.com/?cye8iez5mpucc4co4b7n&af=4186346"
+        },
+        {
+          "name": "UPDATE v1.79 (8.00+) DL",
+          "url": "https://vikingfile.com/f/C5z4qIdCRi"
+        },
+        {
+          "name": "UPDATE v1.79 (8.00+) DL",
+          "url": "https://filekeeper.net/eoy8epkjpn6h/%5BSuperPSX%5D-Marvels.Avengers_CUSA14030_v1.79_%5B8.00%5D_OPOISSO893.rar"
+        }
+      ]
+    },
+	  	{
+      "titleId": "CUSA36847",
+      "title": "Lies of P - PS4 [CUSA36847 - EUR]",
+			"category": "game",
+      "version": "1.12",
+      "sizeBytes": 19400000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Lies-of-P-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME",
+          "url": "https://mocha.my/share/bjezMB7iv3ROXpliKdRsy3HrkIaFLSkv"
+        },
+        {
+          "name": "Update 1.12 (Fix 5.05/6.72/7.xx/9.00)",
+          "url": "https://mocha.my/share/Wy4HBtJ_A7ySD0k3lIUyto1hcVoI6qIb"
+        },
+        {
+          "name": "DLCs",
+          "url": "https://mocha.my/share/fJYgEKiddQ79OLxqUiF5HwdwOJtX2fCb"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA08519",
+      "title": "Red Dead Redemption 2 PS4 [CUSA08519 – EUR]",
+			"category": "game",
+      "version": "1.00",
+      "sizeBytes": 79430000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Red-Dead-Redemption-2-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "Game Download",
+          "url": "https://vik1ngfile.site/f/Aq2PxTyDoj"
+        }
+        ,{
+          "name": "Update v1.32",
+          "url": "https://vik1ngfile.site/f/dygkXvjmkh"
+        }
+      ]
+    },
+    	{
+      "titleId": "CUSA03041",
+      "title": "Red Dead Redemption 2 PS4 [CUSA03041 – USA]",
+			"category": "game",
+      "version": "1.00",
+      "sizeBytes": 79430000000,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Red-Dead-Redemption-2-PS4-PKG.webp",
+      "downloadLinks": [
+        {
+          "name": "Game Download",
+          "url": "https://filekeeper.net/50y1b7n3o3fs/%5BSuperPSX.com%5D-Red.Dead.Redemption.2.CUSA03041-USA-Game-PS4-DUPLEX.pkg"
+        }
+        ,{
+          "name": "Update v1.29",
+          "url": "https://filekeeper.net/ffq319o2csla/%5BSuperPSX.com%5D-Red.Dead.Redemption.2.CUSA03041-USA-Update-1.29-%5B6.72+%5D-PS4.rar"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA00000",
+      "title": "SUPERPSX PS4 Games - ARNOTS",
+      "version": "1.00",
+      "sizeBytes": 1,
+      "posterUrl": "https://play-lh.googleusercontent.com/wZQBffjQYzNWZ5DKGP2SDBCK4nZJsprDuMeYnzQIRvX8FkINdzLTv0iIpGOykVXMEbLkjLKTCcLGmi8xhkAHHg=w240-h480-rw",
+      "downloadLinks": [
+        {
+          "name": "SEARCH ON GOOGLE",
+          "url": "https://www.google.com/"
+        }
+      ]
+    }
+  ]
+}
