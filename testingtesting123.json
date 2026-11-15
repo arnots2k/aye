@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA08809",
+      "title": "Shadow of The Colossus PS4 [CUSA08809 – EUR]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 13958643712,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/11/Shadow-of-the-Colossus-PS4-PKG.webp",
+      "description": "<p>Shadow of the Colossus is a stunning action-adventure game developed by Bluepoint Games and published by Sony Interactive Entertainment. The remastered version for PS4 brings breathtaking visuals and enhanced gameplay mechanics, offering players the chance to relive the classic tale of Wander and his quest to defeat 16 Colossi.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/TkvpO1-qPAPwozIHB__tZhsJ8RfuNIzC"
+        }
+        ,{
+          "name": "Update v1.01 [mocha]",
+          "url": "https://mocha.my/share/d-OdF2xRJcfxYiAazZVmtiE1BtWnTDZY"
+        }
+	,{
+          "name": "DLC [mocha]",
+          "url": "https://mocha.my/share/xvdGkdsaKc98m9OwGUS1uzbWYwiWZrAC"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA44075",
       "title": "Teenage Mutant Ninja Turtles Mutants Unleashed PS4 [CUSA44075 – EUR]",
       "category": "game",
