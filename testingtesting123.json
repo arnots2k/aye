@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA32803",
+      "title": "Granblue Fantasy Relink Digital Deluxe Edition PS4 [CUSA32803 – USA]",
+      "category": "game",
+      "version": "v1.32",
+      "sizeBytes": 24696061952,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Granblue-Fantasy_-Relink-Digital-Deluxe-Edition-PS4-PKG.webp",
+      "description": "<p>Granblue Fantasy Relink Digital Deluxe Edition is a 2024 action role-playing game developed and published by Cygames. Released on February 1, 2024, for PlayStation 4, this game invites you to embark on a grand adventure in the sky. Assemble a party of four Skyfarers from a diverse roster and battle treacherous enemies using a mix of slashing, shooting, and magic. Whether you choose to explore solo or join forces in up to 4-player co-op play, the experience is thrilling.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/nNWGMU6spLzVD_-QU0A3XdbO71ZZk4TR"
+        }
+        ,{
+          "name": "Update 1.32 [mocha]",
+          "url": "https://mocha.my/share/DtX_xbJbYm5BYm6TPAPRRDGreGh3FaDO"
+        }
+	,{
+          "name": "All 43 DLCs [mocha]",
+          "url": "https://mocha.my/share/xFiphJ18PFg0h2LajN3rHGkLL1RqBu-q"
+        }
+	,{
+          "name": "Game Download [vikingfile]",
+          "url": "https://vikingfile.com/f/9LUS49JViV"
+        }
+        ,{
+          "name": "Update 1.32 [vikingfile]",
+          "url": "https://vikingfile.com/f/KVWLNdjoYE"
+        }
+	,{
+          "name": "All 43 DLCs [vikingfile]",
+          "url": "https://vikingfile.com/f/MYwdKBynB7"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA12824",
       "title": "Hogwarts Legacy PS4 [CUSA12824 – USA]",
       "category": "game",
