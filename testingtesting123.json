@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA44422",
+      "title": "ONIC X SHADOW GENERATIONS PS4 [CUSA44422 – USA]",
+      "category": "game",
+      "version": "v1.10",
+      "sizeBytes": 21474836480,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/10/SONIC-X-SHADOW-GENERATIONS-PS4-PKG.webp",
+      "description": "<p>SONIC X SHADOW GENERATIONS is an exciting platforming adventure game that combines the beloved characters of Sonic the Hedgehog and Shadow the Hedgehog.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/uTNdQ46LBCcDzJY4h8K8D6BLsMBLOb_i"
+        }
+        ,{
+          "name": "Update v1.10 [mocha]",
+          "url": "https://mocha.my/share/TMfARzQpb81qed3cW0AsPOdrl1_g8Crj"
+        }
+	,{
+          "name": "DLC v2 [mocha]",
+          "url": "https://mocha.my/share/3AObCM3l_MKyHmaa9sYB2lmu7BfuyB2w"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA47038",
       "title": "Metaphor ReFantazio Atlus 35th Digital Anniversary Edition PS4 [CUSA47038 – USA]",
       "category": "game",
