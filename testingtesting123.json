@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA44075",
+      "title": "Teenage Mutant Ninja Turtles Mutants Unleashed PS4 [CUSA44075 – EUR]",
+      "category": "game",
+      "version": "v1.03",
+      "sizeBytes": 6442450944,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/10/Teenage-Mutant-Ninja-Turtles-Mutants-Unleashed-PS4-PKG.webp",
+      "description": "<p>Teenage Mutant Ninja Turtles: Mutants Unleashed is an action-packed beat ’em up game that immerses players in the iconic world of the Teenage Mutant Ninja Turtles. In this thrilling adventure, players can join Leonardo, Michelangelo, Donatello, and Raphael as they battle against a variety of foes to save New York City. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/w-tjEenu3X0WcaGiN6r2QwN6H0WFtmag"
+        }
+        ,{
+          "name": "Update v1.03 [mocha]",
+          "url": "https://mocha.my/share/08YooAUk7VEw8kyCbI2kMaXxOcqS_GfQ"
+        }
+	,{
+          "name": "DLC v2 [mocha]",
+          "url": "https://mocha.my/share/yDd_65hnCyMTLLFAEFc0SUm6QfCg8wx3"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA44422",
       "title": "ONIC X SHADOW GENERATIONS PS4 [CUSA44422 – USA]",
       "category": "game",
