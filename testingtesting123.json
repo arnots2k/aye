@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA07820",
+      "title": "The Last of Us Part 2 PS4 [CUSA07820 – USA]",
+      "category": "game",
+      "version": "v1.09",
+      "sizeBytes": 96636764160,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/03/The-Last-of-Us-Part-2-PS4-PKG.webp",
+      "description": "<p>The Last of Us Part 2 is an intense action-adventure game that explores the devastating physical and emotional repercussions of revenge. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/VO5HvJnI0ujquInD4ATpZdLN2sFGKB8u"
+        }
+        ,{
+          "name": "Update v1.09 [mocha]",
+          "url": "https://mocha.my/share/o_vwN0C_0AbNMY2OZVfS3TfvhnNCXkCw"
+        }
+	,{
+          "name": "Pre-Order DLC & Bonus [mocha]",
+          "url": "https://mocha.my/share/3so1J1wZ4Zan5JPJWYF9b8fgDmCPefQV"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA50617",
       "title": "Elden Ring Nightreign PS4 [CUSA50617 – EUR]",
       "category": "game",
