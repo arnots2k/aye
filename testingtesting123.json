@@ -3,8 +3,43 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA16163",
+      "title": "Bayonetta PS4 [CUSA16163 – EUR]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 12884901888,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Bayonetta-PS4-PKG.webp",
+      "description": "<p>Bayonetta is a high-octane action game developed by PlatinumGames and published by Sega. Known for its fast-paced combat, dynamic storytelling, and mesmerizing visuals, Bayonetta offers players an unforgettable experience as they battle through hordes of enemies using an array of over-the-top moves.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [filekeeper]",
+          "url": "https://filekeeper.net/fmu9m8uak6pm/%5BSuperPSX%5D-Bayonetta-CUSA16163-EUR-Game-(6.50+)-PS4.pkg"
+        }
+        ,{
+          "name": "Update 1.01 [filekeeper]",
+          "url": "https://filekeeper.net/83jvhz0iqag8/%5BSuperPSX%5D-Bayonetta-CUSA16163-EUR-v1.01-(Fix_5.05)-PS4.pkg"
+        }
+	,{
+          "name": "No DLCs [filekeeper]",
+          "url": "*"
+        }
+	,{
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/YjI4THtARwtpOsM5qgLeNxqB0CmgzJn9"
+        }
+        ,{
+          "name": "Update 1.31 [mocha]",
+          "url": "https://mocha.my/share/8gyjaNtEGlQQOsoLA8emESnTKBj0gRDg"
+        }
+	,{
+          "name": "No DLCs [mocha]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA31498",
-      "title": "Street Fighter 6 PS4 [CCUSA31498 – EUR]",
+      "title": "Street Fighter 6 PS4 [CUSA31498 – EUR]",
       "category": "game",
       "version": "v1.31",
       "sizeBytes": 67645734912,
