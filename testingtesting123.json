@@ -3,6 +3,25 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA35844",
+      "title": "Jujutsu Kaisen Cursed Clash Ultimate Edition PS4 [CUSA35844 – EUR]",
+      "category": "game",
+      "version": "v1.40",
+      "sizeBytes": 45097156608,
+      "posterUrl": "https://pbs.twimg.com/media/GjeYnmPWAAAXiLF?format=webp&name=large",
+      "description": "<p>Jujutsu Kaisen Cursed Clash Ultimate Edition is a thrilling action-packed fighting game based on the popular anime and manga series Jujutsu Kaisen. This ultimate edition features enhanced gameplay, additional characters, and exclusive content, making it the ultimate choice for fans of the series. </p>",
+      "downloadLinks": [
+        {
+          "name": "Download [mocha]",
+          "url": "https://mocha.my/share/Y5fv0RAGzcoufQebN3NBVRuRNJSCsziF"
+        }
+        ,{
+          "name": "Update v1.40 [mocha]",
+          "url": "https://mocha.my/share/TTtnYWWuYAdFrFpRlC771aInyl1jzxFg"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA14322",
       "title": "[FPKG] Patapon 3 [PPSA14322]",
       "category": "game",
