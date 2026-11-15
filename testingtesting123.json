@@ -8,7 +8,7 @@
       "category": "game",
       "version": "v1.40",
       "sizeBytes": 45097156608,
-      "posterUrl": "https://pbs.twimg.com/media/GjeYnmPWAAAXiLF?format=webp&name=large",
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Jujutsu-Kaisen-Cursed-Clash-Ultimate-Edition-PS4-PKG.webp",
       "description": "<p>Jujutsu Kaisen Cursed Clash Ultimate Edition is a thrilling action-packed fighting game based on the popular anime and manga series Jujutsu Kaisen. This ultimate edition features enhanced gameplay, additional characters, and exclusive content, making it the ultimate choice for fans of the series. </p>",
       "downloadLinks": [
         {
@@ -444,6 +444,25 @@
         {
           "name": "All New DLCs - EUR",
           "url": "https://vikingfile.com/f/Dak7l2UkUk"
+        }
+      ]
+	},
+	 {
+      "titleId": "CUSA01022",
+      "title": "DmC Devil May Cry Definitive Edition PS4 [CUSA01022 – EUR]",
+      "category": "game",
+      "version": "v1.03",
+      "sizeBytes": 20401094656,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/DmC-Devil-May-Cry-Definitive-Edition-PS4-PKG.webp",
+      "description": "<p>DmC Devil May Cry Definitive Edition is an action-packed, fast-paced hack-and-slash game developed by Ninja Theory and published by Capcom. This definitive edition delivers enhanced graphics, smoother gameplay, and all previous downloadable content (DLC), ensuring players get the ultimate Dante experience. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/0r55G4CluwKqlenfZ5eE-GDmwSmL4qt1"
+        }
+        ,{
+          "name": "Update v1.03 [mocha]",
+          "url": "https://mocha.my/share/GpqloMV6KmYU_zKkGvRWjZi5iJulicks"
         }
       ]
     },
