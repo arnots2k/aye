@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA14836",
+      "title": "Catherine Full Body Digital Deluxe Edition PS4 [CUSA14836 – USA]",
+      "category": "game",
+      "version": "v1.01",
+      "sizeBytes": 13099650253,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/08/Catherine-Full-Body-Digital-Deluxe-Edition-PS4-PKG.jpg",
+      "description": "<p>Catherine: Full Body Digital Deluxe Edition is an enhanced puzzle-adventure game developed by Atlus and published by SEGA. The game follows Vincent as he becomes caught between relationships, strange nightmares, and challenging tower-climbing puzzles. The Digital Deluxe Edition includes the full game along with four DLC packs, adding playable characters, additional voice options, Persona 5’s Joker and Phantom Thieves commentary, and bonus content. The PS4 version offers a deeper and more complete Catherine experience with new story content, puzzle variations, and additional endings.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [filekeeper]",
+          "url": "https://filekeeper.net/99pn5d2o7n16/%5BSuperPSX%5D-Catherine.Full.Body.Digital.Deluxe.Edition-CUSA14836-USA-Game-PS4.pkg"
+        }
+        ,{
+          "name": "No Update [filekeeper]",
+          "url": "*"
+        }
+	,{
+          "name": "DLC [filekeeper]",
+          "url": "https://filekeeper.net/50hyn4om0to7/%5BSuperPSX%5D-Catherine.Full.Body.Digital.Deluxe.Edition-CUSA14836-USA-DLC-PS4.rar"
+        }
+	,{
+          "name": "Game Download [akirabox]",
+          "url": "https://akirabox.com/1RgzR91bb3bp/file"
+        }
+        ,{
+          "name": "No Update [mocha]",
+          "url": "*"
+        }
+	,{
+          "name": "DLC [akirabox]",
+          "url": "https://akirabox.com/k0embbjLnmVb/file"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA16163",
       "title": "Bayonetta PS4 [CUSA16163 – EUR]",
       "category": "game",
