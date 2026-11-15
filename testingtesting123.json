@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA12824",
+      "title": "Hogwarts Legacy PS4 [CUSA12824 – USA]",
+      "category": "game",
+      "version": "v1.06",
+      "sizeBytes": 38654705664,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/02/Hogwarts-Legacy-PS4-PKG.webp",
+      "description": "<p>Hogwarts Legacy is a 2023 action role-playing game developed by Avalanche Software and published by Warner Bros. Experience Hogwarts in the 1800s with your character as a student who holds the key to an ancient secret threatening the wizarding world. Discover the magic of living at Hogwarts, making allies, battling Dark Wizards, and shaping the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/EHBjInLQnXY7C1zf_L6j5egMqtrP3Sn8"
+        }
+        ,{
+          "name": "Game Info Fix [mocha]",
+          "url": "https://mocha.my/share/6UcFpmU_P4-4wuRtuc5TZxQlvrpqOwGU"
+        }
+	,{
+          "name": "DLC [mocha]",
+          "url": "https://mocha.my/share/iUOoMMi2dWGJxGIe6_sjyhL0iUANj42A"
+        }
+	,{
+          "name": "Game Download [vikingfile]",
+          "url": "https://vikingfile.com/f/iOKsnqLTZi"
+        }
+        ,{
+          "name": "Game Info Fix [vikingfile]",
+          "url": "https://vikingfile.com/f/qoOQiktGTK"
+        }
+	,{
+          "name": "DLC [vikingfile]",
+          "url": "https://vikingfile.com/f/7N20jcbcQp"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA07820",
       "title": "The Last of Us Part 2 PS4 [CUSA07820 – USA]",
       "category": "game",
