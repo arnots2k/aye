@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "PPSA25972",
+      "title": "[PS5 PKG] CarX Street PS5 [PPSA25972 – EUR]",
+      "category": "game",
+      "version": "v01.043",
+      "sizeBytes": 18253611008,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/CarX-Street-PS5.jpg",
+      "description": "<p>CarX Street is an open-world street racing game that combines realistic driving physics, detailed car customization, competitive races, and a sprawling urban environment. Developed by CarX Technologies, the game lets players explore Sunset City, build and customize their dream cars, compete in high-speed street races, and develop their reputation across different racing clubs. Master challenging corners, tune your vehicle for different events, and experience a dynamic driving world designed for racing enthusiasts. CarX Street PS5 game is available on PlayStation 5. Game updates and DLCs can be seamlessly installed through the official game platform.</p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/iruPG9CqGN2rfbqSactzgVG57Sqna9tC"
+        }
+        ,{
+          "name": "Game Download [vikingfile]",
+          "url": "https://https://vikingfile.com/f/TwBAPxeBz7"
+        }
+	,{
+          "name": "* [*]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA15633",
       "title": "CarX Drift Racing Online PS4 [CUSA15633 – EUR]",
       "category": "game",
