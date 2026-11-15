@@ -130,20 +130,16 @@
       "description": "<p>Shadow of the Tomb Raider: Definitive Edition is an action-adventure game developed by Eidos Montréal and published by Square Enix. Released on September 14, 2018, for the PlayStation 4, this game marks the twelfth main installment in the Tomb Raider series. Experience Lara Croft’s ultimate transformation into the legendary Tomb Raider with the Definitive Edition, which includes the base game, all seven DLC challenge tombs, and all additional weapons, outfits, and skills. - PASSWORD: SuperPSX </p>",
       "downloadLinks": [
         {
-          "name": "Download [1fichier]",
-          "url": "https://1fichier.com/?5bpg6trcech3alk5ec6e&af=4186346"
-        }
-        ,{
           "name": "Download [mocha]",
           "url": "https://mocha.my/share/bdq4kkVZTPiQuhDgTa7eX2blChPDGRHo"
         }
         ,{
-          "name": "DLC Unlock [1fichier]",
-          "url": "https://1fichier.com/?8k88on0rvnrms4h10y7n&af=4186346"
+          "name": "Update v2.01 [mocha]",
+          "url": "https://mocha.my/share/qgF3CKbQM7JBLy74GOMcff8psnXa2HhE"
         }
         ,{
-          "name": "Update v2.01 [1fichier]",
-          "url": "https://1fichier.com/?nbmvr4jbfvb5hy16sqls&af=4186346"
+          "name": "DLC Unlock [mocha]",
+          "url": "https://mocha.my/share/-RQJqBpE3E6NlFlvLXh-1Md_-5a8dTuE"
         }
       ]
     },
@@ -157,22 +153,18 @@
       "description": "<p>Rise of the Tomb Raider is an action-adventure game developed by Crystal Dynamics and published by Square Enix and Microsoft Studios. It is the 11th major installment in the Tomb Raider series and was released on October 11, 2016. - PASSWORD: SuperPSX </p>",
       "downloadLinks": [
         {
-          "name": "Download [1fichier]",
-          "url": "https://1fichier.com/?qfcevnk2j32hj2cmi0j4&af=4186346"
-        }
-        ,{
           "name": "Download [mocha]",
           "url": "https://mocha.my/share/5hyEshMyn0d4_jJRZMgi_AocBhIGq-am"
         }
         ,{
-          "name": "Update v1.06 [1fichier]",
-          "url": "https://1fichier.com/?sgm29800h8jt0g17d1ue&af=4186346"
+          "name": "Update v1.06 [mocha]",
+          "url": "https://mocha.my/share/_4NutqEgXNa3NrooDifTzUQOZewk1prA"
         }
       ]
     },
     {
       "titleId": "CUSA00107",
-      "title": "Romb Raider Definitive Edition PS4 [CUSA00107 – USA]",
+      "title": "Tomb Raider Definitive Edition PS4 [CUSA00107 – USA]",
       "category": "game",
       "version": "v1.01",
       "sizeBytes": 16106127360,
