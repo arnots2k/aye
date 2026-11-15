@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA01766",
+      "title": "Prototype PS4 [CUSA01766 – EUR]",
+      "category": "game",
+      "version": "v1.00",
+      "sizeBytes": 7516192768,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/12/Prototype-PS4-PKG.webp",
+      "description": "<p>Prototype is an open-world action game developed by Radical Entertainment. The game offers a gripping experience with a thrilling story and a unique combat system where players take control of Alex Mercer, a man with the ability to shapeshift and absorb other characters’ powers. </p>",
+      "downloadLinks": [
+        {
+          "name": "Game Download [mocha]",
+          "url": "https://mocha.my/share/SxDPTCHQnmSsREhdyr_0ihnPIF0LEE_C"
+        }
+        ,{
+          "name": "No Update [*]",
+          "url": "*"
+        }
+	,{
+          "name": "No DLC [*]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA08809",
       "title": "Shadow of The Colossus PS4 [CUSA08809 – EUR]",
       "category": "game",
