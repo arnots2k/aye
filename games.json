@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA23501, CUSA26615, CUSA26618",
+      "title": "GTA Trilogy Definitive Edition PS4 [CUSA23501 – USA]",
+      "category": "game",
+      "version": "v01.07",
+      "sizeBytes": 48318382080,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Grand-Theft-Auto_-The-Trilogy-_-The-Definitive-Edition-PS4-PKG.webp",
+      "description": "<p>Grand Theft Auto The Trilogy: Definitive Edition is a remastered collection featuring three iconic titles from the Grand Theft Auto series: Grand Theft Auto III (2001), Grand Theft Auto: Vice City (2002), and Grand Theft Auto: San Andreas (2004). Released on November 11, 2021, for PlayStation 4, the collection was developed by Grove Street Games and published by Rockstar Games.</p>",
+      "downloadLinks": [
+        {
+          "name": "GTA 3 [CUSA23501 – USA] [mocha]",
+          "url": "https://mocha.my/share/XKZz4T0n0mIziTO8MfY9cBl39cscBmM1"
+        }
+        ,{
+          "name": " Update 1.07 for GTA 3 [CUSA23501 – USA] Update v1.07 [mocha]",
+          "url": "https://mocha.my/share/t1kLoZ1iUJ_CUeHzDlMg5mo8PPMFccws"
+        }
+	,{
+          "name": "GTA Vice City [CUSA26615 – USA] [mocha]",
+          "url": "https://mocha.my/share/CIP2g3iRgbNcUxT8K2TII-oo6XUAdJrS"
+        }
+	,{
+          "name": " Update 1.07 for GTA Vice City [CUSA26615 – USA] [mocha]",
+          "url": "https://mocha.my/share/xphKDMXi0ydTjDCph9YPjgWHJo1UU_3y"
+        }
+        ,{
+          "name": "GTA San Andreas [CUSA26618 – USA] [mocha]",
+          "url": "https://mocha.my/share/0lmhxl4nv3b8A3IjfBgcHZUoYwy4wIpD"
+        }
+	,{
+          "name": "Update 1.07 for GTA San Andreas [CUSA26618 – USA] [mocha]",
+          "url": "https://mocha.my/share/lLyLvTgzrsP3S1D6sdlx5me4blCsAO_8"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA13958",
       "title": "American Fugitive PS4 [CUSA13958 – EUR]",
       "category": "game",
