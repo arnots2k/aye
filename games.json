@@ -444,7 +444,7 @@
     },
 	      {
       "titleId": "CUSA44422",
-      "title": "ONIC X SHADOW GENERATIONS PS4 [CUSA44422 – USA]",
+      "title": "SONIC X SHADOW GENERATIONS PS4 [CUSA44422 – USA]",
       "category": "game",
       "version": "v1.10",
       "sizeBytes": 21474836480,
@@ -538,43 +538,38 @@
         }
       ]
     },
-	      {
-      "titleId": "PPSA31246",
-      "title": "[FPKG] RESIDENT EVIL requiem Deluxe Edition [PPSA31246]",
+	  {
+      "titleId": "CUSA06549",
+      "title": "Lego City Undercover PS4 [CUSA06549 – USA]",
       "category": "game",
-      "version": "4.xx BackPort",
-      "sizeBytes": 77309411328,
-      "posterUrl": "https://cdn1.epicgames.com/spt-assets/b2e589fac93746fc8d20b4177f5b3a60/resident-evil-requiem-i43vz.png",
-      "description": "<p>FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
+      "version": "v01.02",
+      "sizeBytes": 10737418240,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/03/Lego-City-Undercover-PS4-PKG.webp",
+      "description": "<p>Lego City Undercover is an action-adventure game available for PS4. The Lego City Undercover PS4 Fake PKG is now available, including updates and DLCs, which can be easily installed on any exploited PlayStation 4 via USB or FTP. Developed by TT Fusion and published by Warner Bros. Interactive Entertainment, this title was released on April 4, 2017. While the game has received positive feedback for its clever design and humor, it has faced criticism for long loading times and the absence of co-op multiplayer, which is common in other Lego games.</p>",
       "downloadLinks": [
-		  {
-          "name": "Direct FPKG Download *TEST* [vikingfile]",
-          "url": "https://vikingfile.com/d/TFSG8IpymL/EP0102-PPSA31246_00-REREQUIEM0000000.pkg"
-        }
-        ,
-		  {
-          "name": "Download [datanods]",
-          "url": "https://datanodes.to/j889gbkx9l0f/PPSA31246-Compressed.7z"
+        {
+          "name": "FULL GAME [mocha]",
+          "url": "https://mocha.my/share/0J30kc9BUACzNjoU95MfFmONR25VXQBh"
         }
         ,{
-          "name": "Download [filekeeper]",
-          "url": "https://filekeeper.net/evqjzk0dtv1e/PPSA31246-Compressed.7z"
+          "name": "Update v1.02 [mocha]",
+          "url": "https://mocha.my/share/HU3aD3IdCZeMxLQW0dSrCHjIwtvcnHck"
+        }
+	,{
+          "name": "Game Download []",
+          "url": "*"
+        }
+	,{
+          "name": "Game Download []",
+          "url": "*"
         }
         ,{
-          "name": "Download [vikingfile]",
-          "url": "https://vikingfile.com/f/i0UsKKt2BJ6"
-        }
-        ,{
-          "name": "Download [akirabox]",
-          "url": "https://akirabox.com/E1x3AZdaRzyk/file"
+          "name": "No Update []",
+          "url": "*"
         }
 	,{
           "name": "DLC [akirabox]",
-          "url": "https://akirabox.com/E9Qz9Av1bzOL/file"
-        }
-	,{
-          "name": "DLC [datanods]",
-          "url": "https://datanodes.to/50xvktcjim7x/DLCs_dunaevnick.rar"
+          "url": "*"
         }
       ]
     },
