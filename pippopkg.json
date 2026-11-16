@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "PPSA01969",
+      "title": "Death Stranding Directors Cut PS5 [PPSA01969 – USA]",
+      "category": "game",
+      "version": "v01.005",
+      "sizeBytes": 66571993088,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/06/Death-Stranding-Directors-Cut-PS5.jpg",
+      "description": "<p>DEATH STRANDING DIRECTOR’S CUT is an expanded version of the acclaimed action-strand game created by Hideo Kojima. Developed by Kojima Productions and published by Sony Interactive Entertainment, the game follows Sam Porter Bridges as he traverses a fractured America, reconnecting isolated cities while delivering vital cargo across dangerous terrain. Enhanced for PlayStation 5, the Director’s Cut adds new missions, improved combat options, and expanded traversal tools. DEATH STRANDING DIRECTOR’S CUT PS5 game is available for download and installation on PlayStation 5.</p>",
+      "downloadLinks": [
+        {
+          "name": "GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/PTo3xmNOTxamhikDWq1uZ_u6Hi7qo34y"
+        }
+        ,{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/xH9yJWkBGM"
+        }
+		,{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://itsfileditchfiles.st/balpha42/0a1c12bc32aeed38e86b/%5BSPSX%5D-DEATH.STRANDING.DIRECTORS.CUT-PPSA01969-USA-v01.005.000-FPKG.pkg"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA36082",
       "title": "Hades II PS5 [PPSA36082– EUR]",
       "category": "game",
