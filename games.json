@@ -19,21 +19,9 @@
           "name": "Orig file (9.xx+) PKG *optional only* 806MB [vikingfile]",
           "url": "https://vikingfile.com/d/rtQpHpnAkD/original%20files%20(9.xx+)/EP0082-PPSA08668_00-EUROPE0000000000-original.pkg"
         }
-	,{
+		,{
           "name": "Game Download [vikingfile rar.7z]",
           "url": "https://vikingfile.com/f/PiKhdop1aV"
-        }
-	,{
-          "name": "Game Download [akirabox]",
-          "url": "*"
-        }
-        ,{
-          "name": "No Update [mocha]",
-          "url": "*"
-        }
-	,{
-          "name": "DLC [akirabox]",
-          "url": "*"
         }
       ]
     },
