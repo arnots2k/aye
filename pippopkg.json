@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "PPSA25991",
+      "title": "Senuas Saga Hellblade II PS5 [PPSA25991 – EUR]",
+      "category": "game",
+      "version": "v01.002",
+      "sizeBytes": 44023414784,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/Senuas-Saga-Hellblade-II-PS5.jpg",
+      "description": "<p>Senua’s Saga: Hellblade II is a cinematic psychological action-adventure that continues the journey of Senua, a warrior haunted by visions and voices as she travels through Viking Iceland. Developed by Ninja Theory and published by Xbox Game Studios, the game follows Senua as she confronts brutal warriors, supernatural forces, and the darkness within herself. Explore a beautifully detailed Icelandic landscape, experience intense third-person combat, and uncover a deeply personal story about survival, belief, and humanity. Senua’s Saga: Hellblade II PS5 game delivers an atmospheric experience combining cinematic storytelling, realistic visuals, exploration, and visceral combat.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/1PSHeWl-BtyJT4EwCMss-lSEIpkpnn_3"
+        }
+        ,{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/rBpIsS6jP6"
+        }
+	,{
+          "name": "GAME DOWNLOAD [FileD]",
+          "url": "https://itsfileditchfiles.st/balpha41/9101c1b30e0a90888679/%5BSPSX%5D-Senuas.Saga.Hellblade.II-PPSA25991-EUR-v01.002.000-FPKG.pkg"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA27581",
       "title": "Hellblade Senuas Sacrifice PS5 [PPSA27581 – USA]",
       "category": "game",
