@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA00419",
+      "title": "GTA 5 PS4 [CUSA00419 – USA]",
+      "category": "game",
+      "version": "v1.57",
+      "sizeBytes": 81604378624,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2023/08/GTA-5-PS4-PKG.webp",
+      "description": "<p>Grand Theft Auto V is an action-adventure game developed by Rockstar North and published by Rockstar Games, released on November 18, 2014, for PlayStation 4. This title offers an expansive open-world experience with stunning graphics and immersive gameplay.</p>",
+      "downloadLinks": [
+        {
+          "name": "GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/2lA0eHZ5VdBHHW2Vds6t8pY6hqjuTuIH"
+        }
+        ,{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/s5Xfn19F0F"
+        }
+	,{
+          "name": "Update v1.57 [mocha]",
+          "url": "https://vikingfile.com/f/7fqAeL3t33"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA23501, CUSA26615, CUSA26618",
       "title": "GTA Trilogy Definitive Edition PS4 [CUSA23501 – USA]",
       "category": "game",
@@ -191,7 +214,7 @@
       "version": "v1.03",
       "sizeBytes": 2899102924.8,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/08/Kizuna-AI-Touch-the-Beat-PS4-PKG.jpg",
-      "description": "<p>Kizuna AI – Touch the Beat! is a rhythm game featuring virtual YouTuber Kizuna AI, developed by Gemdrops and published by Gemdrops. Players can enjoy a collection of energetic musical performances while interacting with Kizuna AI in a colorful virtual environment. The game features rhythm-based gameplay, a variety of songs, and an immersive stage experience designed for fans of music and virtual performers.</p>",
+      "description": "<p>Kizuna AI Touch the Beat! is a rhythm game featuring virtual YouTuber Kizuna AI, developed by Gemdrops and published by Gemdrops. Players can enjoy a collection of energetic musical performances while interacting with Kizuna AI in a colorful virtual environment. The game features rhythm-based gameplay, a variety of songs, and an immersive stage experience designed for fans of music and virtual performers.</p>",
       "downloadLinks": [
         {
           "name": "Game Download [filekeeper]",
