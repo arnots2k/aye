@@ -3,6 +3,25 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA13958",
+      "title": "American Fugitive PS4 [CUSA13958 – EUR]",
+      "category": "game",
+      "version": "v01.02",
+      "sizeBytes": 1073741824,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2022/10/American-Fugitive-PS4-PKG.webp",
+      "description": "<p>American Fugitive is an action-adventure game developed by Fallen Tree Games and published by Curve Games. Released on May 21, 2019, for PlayStation 4, this game challenges players to navigate the criminal underworld and evade the police after being falsely accused of murdering their father. </p>",
+      "downloadLinks": [
+        {
+          "name": "FULL GAME [mocha]",
+          "url": "https://mocha.my/share/_OlG5_y9GN-ORQ9aCl2A93zaaJOYZHPN"
+        }
+        ,{
+          "name": "Update v1.08 [mocha]",
+          "url": "https://mocha.my/share/nIcw49Hn_GgWOHO19mqMq-NDSrByJSkw"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA08668",
       "title": "[PS5 Pippo] FINAL FANTASY VII REBIRTH Deluxe Edition [PPSA08668 - EUR]",
       "category": "game",
