@@ -3,6 +3,29 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "PPSA27581",
+      "title": "Hellblade Senuas Sacrifice PS5 [PPSA27581 – USA]",
+      "category": "game",
+      "version": "v01.003",
+      "sizeBytes": 20401094656,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/Hellblade-Senuas-Sacrifice-PS5.jpg",
+      "description": "<p>Hellblade: Senua’s Sacrifice is a cinematic psychological action-adventure game that follows Senua, a Celtic warrior who journeys into the Viking realm of Helheim to fight for the soul of her dead lover. Developed by Ninja Theory, the game combines intense third-person combat, exploration, environmental puzzles, and a deeply personal narrative shaped by Senua’s perception of the world. Hear the voices in Senua’s mind, confront terrifying enemies, uncover ancient mysteries, and experience a haunting journey through Norse mythology. Hellblade: Senua’s Sacrifice PS5 game features enhanced visuals, ray tracing, support for up to 120fps, and immersive DualSense haptic feedback.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/7xt-MHDAo7QbK4kOA7u5a9sOc1ruMafa"
+        }
+        ,{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/n2SubQSNun"
+        }
+	,{
+          "name": "GAME DOWNLOAD [FileD]",
+          "url": "https://itsfileditchfiles.st/echo7/68e50376966fced53f31/%5BSPSX%5D-Hellblade.Senuas.Sacrifice-PPSA27581-USA-v01.003.000-FPKG.pkg"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA10595",
       "title": "Tekken 8 PS5 [PPSA10595 – USA]",
       "category": "game",
