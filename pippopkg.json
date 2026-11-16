@@ -2,7 +2,30 @@
   "name": "SuperPSX PS4 by ARNOTS",
 	"version": 1,
   "packages": [
-				{
+	      {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei Complete Edition PS5 [PPSA26344 – USA]",
+      "category": "game",
+      "version": "v02.002",
+      "sizeBytes": 130996502528,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/04/Ghost-of-Yotei-PS5.webp",
+      "description": "<p>Ghost of Yotei is an open-world action-adventure game that follows a new warrior’s journey in feudal Japan, set around the region of Mount Yōtei. Developed by Sucker Punch Productions, the game builds upon the legacy of its predecessor with enhanced combat mechanics, a vast explorable world, and a deeply personal story of honor, revenge, and survival.</p>",
+      "downloadLinks": [
+        {
+          "name": "GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/zLUQdUs2xgIBTSVX1tTvtz0cZFcMasqc"
+        }
+        ,{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/IX19Rz2DT5"
+        }
+	,{
+          "name": "DLCs [viki]",
+          "url": "https://vikingfile.com/f/26OAY24gLN"
+        }
+      ]
+    },
+		{
       "titleId": "PPSA08668",
       "title": "[PS5] FINAL FANTASY VII REBIRTH Deluxe Edition [PPSA08668 - EUR]",
       "category": "game",
