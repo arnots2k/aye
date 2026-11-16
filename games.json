@@ -142,7 +142,7 @@
         }
       ]
     },
-	      {
+	{
       "titleId": "CUSA33096",
       "title": "Kizuna AI Touch the Beat PS4 [CUSA33096 – EUR]",
       "category": "game",
@@ -159,21 +159,9 @@
           "name": "Update 1.03 [filekeeper]",
           "url": "https://filekeeper.net/v4jqjzmfujmh/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-Update_1.03_(Fix_5.05+)-PS4-OPOISSO893.pkg"
         }
-	,{
+		,{
           "name": "All 3 DLCs [filekeeper]",
           "url": "https://filekeeper.net/3qq9378gmh4k/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-DLC-PS4-OPOISSO893.rar"
-        }
-	,{
-          "name": "Game Download [vikingfile]",
-          "url": "*"
-        }
-        ,{
-          "name": "Update 1.32 [vikingfile]",
-          "url": "*"
-        }
-	,{
-          "name": "All 43 DLCs [vikingfile]",
-          "url": "*"
         }
       ]
     },
