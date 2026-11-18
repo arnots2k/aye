@@ -3,6 +3,33 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA13933",
+      "title": "The Dark Pictures Anthology Man of Medan PS4 [CUSA13933 – USA]",
+      "category": "game",
+      "version": "v1.20",
+      "sizeBytes": 32212254720,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2020/08/The-Dark-Pictures-Anthology-PS4-PKG.webp",
+      "description": "<p>The Dark Pictures Anthology: Man of Medan is a thrilling interactive drama survival horror game developed by Supermassive Games and published by Bandai Namco Entertainment. Released on August 30, 2019, for PlayStation 4, it is the first entry in The Dark Pictures Anthology series.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/sDlP3ZvcSe"
+        },
+	{
+          "name": "GAME Update v1.20 [viki]",
+          "url": "https://vikingfile.com/f/oRHO2drp7V"
+        },
+	{
+          "name": "GAME Info Fix [viki]",
+          "url": "https://vikingfile.com/f/BEMu30dDrm"
+        },
+	{
+          "name": "DLC Curator’s Cut [viki]",
+          "url": "https://vikingfile.com/f/0v2T4rdqrY"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA00419",
       "title": "GTA 5 PS4 [CUSA00419 – USA]",
       "category": "game",
