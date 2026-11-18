@@ -3,6 +3,41 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA02962",
+      "title": "Fallout 4 Game of The Year Edition PS4 [CUSA02962 – EUR]",
+      "category": "game",
+      "version": "v1.43",
+      "sizeBytes": 32212254720,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/05/Fallout-4-Game-of-The-Year-Edition-PS4-PKG.webp",
+      "description": "<p>Fallout 4 is an action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. As the fifth major installment in the Fallout series, it was released for PS4 on December 12, 2017.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "https://vikingfile.com/f/bwx7zNZF4g"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.43.pkg [viki]",
+          "url": "https://vikingfile.com/f/OA4YZcjYQ4"
+        },
+	{
+          "name": "GAME DLCs.rar [viki]",
+          "url": "https://vikingfile.com/f/tzDOvr2QGx"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [filek]",
+          "url": "https://filekeeper.net/4j9j14pejlzq/%5BSuperPSX%5D-Fallout.4_CUSA02962_v1.00_%5B5.05%5D_PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.43.pkg [filek]",
+          "url": "https://filekeeper.net/vd882xbvabb6/%5BSuperPSX%5D-Fallout.4_CUSA02962_Update_v1.43_(Fix_5.056.727.xx9.00)_PS4.pkg"
+        },
+	{
+          "name": "GAME DLCs.rar [filek]",
+          "url": "https://filekeeper.net/j7p9mszhgig3/%5BSuperPSX%5D-Fallout.4_CUSA02962_DLCPACK_%5B6%5D_PS4.rar"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA06884",
       "title": "The Walking Dead A New Frontier PS4 [CCUSA06884 – USA]",
       "category": "game",
