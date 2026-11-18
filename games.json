@@ -212,20 +212,20 @@
       "title": "Kizuna AI Touch the Beat PS4 [CUSA33096 – EUR]",
       "category": "game",
       "version": "v1.03",
-      "sizeBytes": 2899102924.8,
+      "sizeBytes": 2899102924,
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/08/Kizuna-AI-Touch-the-Beat-PS4-PKG.jpg",
-      "description": "<p>Kizuna AI Touch the Beat! is a rhythm game featuring virtual YouTuber Kizuna AI, developed by Gemdrops and published by Gemdrops. Players can enjoy a collection of energetic musical performances while interacting with Kizuna AI in a colorful virtual environment. The game features rhythm-based gameplay, a variety of songs, and an immersive stage experience designed for fans of music and virtual performers.</p>",
+      "description": "<p>Kizuna.</p>",
       "downloadLinks": [
         {
-          "name": "Game Download [filekeeper]",
+          "name": "Game Download [filek]",
           "url": "https://filekeeper.net/xunwtkwzmsks/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-Game-PS4-OPOISSO893OPOISSO893.pkg"
-        }
-        ,{
-          "name": "Update 1.03 [filekeeper]",
+        },
+		  {
+          "name": "Update 1.03 [filek]",
           "url": "https://filekeeper.net/v4jqjzmfujmh/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-Update_1.03_(Fix_5.05+)-PS4-OPOISSO893.pkg"
-        }
-		,{
-          "name": "All 3 DLCs [filekeeper]",
+        },
+		  {
+          "name": "All 3 DLCs [filek]",
           "url": "https://filekeeper.net/3qq9378gmh4k/%5BSuperPSX%5D-Kizuna.AI.Touch.the.Beat-CUSA330960-EUR-DLC-PS4-OPOISSO893.rar"
         }
       ]
