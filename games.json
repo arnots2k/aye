@@ -3,6 +3,33 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA14566",
+      "title": "PC Building Simulator PS4 [CUSA14566 – EUR]",
+      "category": "game",
+      "version": "v1.50",
+      "sizeBytes": 3221225472,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/PC-Building-Simulator-PS4-PKG.webp",
+      "description": "<p>PC Building Simulator is a simulation-strategy game developed by Claudiu Kiss and published by The Irregular Corporation. Released on August 13, 2019, for PlayStation 4, this game aims to teach players about building a PC in a fun and interactive way. Whether you are a novice or looking to refine your skills, PC Building Simulator offers a virtual tool for learning without the financial commitment.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "https://vikingfile.com/f/ukmIHP54hY"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.50.pkg [viki]",
+          "url": "https://vikingfile.com/f/V1zFPXQwRC"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [filek]",
+          "url": "https://filekeeper.net/j7tkou6my8b0/%5BSuperPSX.com%5D-PC.Building.Simulator-CUSA14566-Game-v1.00_%5B6.72%5D_OPOISSO893.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.50.pkg [filek]",
+          "url": "https://filekeeper.net/5prhheq5649y/%5BSuperPSX.com%5D-PC.Building.Simulator-CUSA14566-Update-v1.50_%5B9.00%5D_OPOISSO893.pkg"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA02962",
       "title": "Fallout 4 Game of The Year Edition PS4 [CUSA02962 – EUR]",
       "category": "game",
