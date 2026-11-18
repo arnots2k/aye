@@ -3,6 +3,33 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA25430",
+      "title": "The Dark Pictures Anthology House of Ashes PS4 [CUSA25430 – EUR]",
+      "category": "game",
+      "version": "v1.05",
+      "sizeBytes": 53687091200,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Dark-Pictures-Anthology_-House-of-Ashes-PS4-PKG.webp",
+      "description": "<p>The Dark Pictures Anthology: House of Ashes is a gripping survival horror interactive drama game developed by Supermassive Games and published by Bandai Namco Entertainment. Released for PlayStation 4 on October 22, 2021, this title is the third main installment in The Dark Pictures Anthology series.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD [mocha]",
+          "url": "https://mocha.my/share/XA9bH1mSFjlDgom2K8vBGHOHYsjrBW03"
+        },
+	{
+          "name": "GAME DOWNLOAD [viki]",
+          "url": "https://vikingfile.com/f/F5jzGBpBgC"
+        },
+	{
+          "name": "GAME Update v1.05 [mocha]",
+          "url": "https://mocha.my/share/j_XJDrTTIsRzQsldLQRDkrQ5ro04BVxj"
+        },
+	{
+          "name": "DGAME Update v1.05 [viki]",
+          "url": "https://vikingfile.com/f/nrfXNsowHY"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA13933",
       "title": "The Dark Pictures Anthology Man of Medan PS4 [CUSA13933 – USA]",
       "category": "game",
