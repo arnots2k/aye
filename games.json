@@ -3,6 +3,54 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA13689",
+      "title": "The Outer Worlds PS4 [CUSA13689 – EUR]",
+      "category": "game",
+      "version": "v1.08",
+      "sizeBytes": 22548578304,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Outer-Worlds-PS4-PKG.webp",
+      "description": "<p>The Outer Worlds is a sci-fi role-playing game developed by Obsidian Entertainment and published by Private Division. Released for PlayStation 4 in October 2019, this game offers an engaging exploration of a space colony where your character’s choices influence how the story unfolds. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [mocha]",
+          "url": "https://mocha.my/share/y611SJqAo1iBTqGNrVQRZIcETSOt3ce9"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.08.pkg [mocha]",
+          "url": "https://mocha.my/share/YuYZGP3ORQ1TzuUFeoPpsKuZJ3wa_LWY"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [mocha]",
+          "url": "https://mocha.my/share/DgukN7YMQ6f88gCKyhtBbLUUBPEDutfA"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [filek]",
+          "url": "https://filekeeper.net/1q4sc0qr7twr/%5BSuperPSX%5D-The.Outer.Worlds_CUSA13689_v1.00-%5B6.72%5D-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.08.pkg [filek]",
+          "url": "https://filekeeper.net/l2k7ktyhxqls/%5BSuperPSX%5D-The.Outer.Worlds_CUSA13689_v1.08_%5B6.72%5D-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [filek]",
+          "url": "https://filekeeper.net/83easju2ju40/%5BSuperPSX%5D-The.Outer.Worlds_CUSA13689_DLC-PACK%5B2%5D-PS4.rar"
+        }
+,
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "https://vikingfile.com/f/KUyCumNLaO"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.08.pkg [viki]",
+          "url": "https://vikingfile.com/f/gkCU6qSD1p"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [viki]",
+          "url": "https://vikingfile.com/f/BzL3qu1OWf"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA02389",
       "title": "Assassins Creed Syndicate PS4 [CUSA02389 – USA]",
       "category": "game",
