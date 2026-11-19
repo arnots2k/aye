@@ -3,6 +3,25 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA34299",
+      "title": "WWE 2K26 PS5 [PPSA34299 – USA]",
+      "category": "game",
+      "version": "v01.006 · BackPort 4.xx · DLCs Merged",
+      "sizeBytes": 136365211648,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/06/WWE-2K26-PS5.jpg",
+      "description": "<p>WWE 2K26 is the latest installment in the long-running wrestling simulation series developed by Visual Concepts and published by 2K Sports. Featuring enhanced gameplay mechanics, improved physics, and ultra-realistic character models, the game delivers the most immersive WWE experience to date. Step into the ring with your favorite Superstars, compete in iconic arenas, and relive or rewrite legendary wrestling moments.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v01.006 .pkg [mocha]",
+          "url": "https://mocha.my/share/UayDcYcbYSVdaJfF2pwRWsKX-43nLuIV"
+        },
+	{
+          "name": "GAME DOWNLOAD v01.006 .pkg [viki]",
+          "url": "https://vikingfile.com/f/uNDa08dYA7"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA31246",
       "title": "EA SPORTS UFC 6 PS5 [PPSA31246 – EUR]",
       "category": "game",
