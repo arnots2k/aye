@@ -3,6 +3,53 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA02389",
+      "title": "Assassins Creed Syndicate PS4 [CUSA02389 – USA]",
+      "category": "game",
+      "version": "v1.54",
+      "sizeBytes": 33285996544,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/04/Assassins-Creed-Syndicate-PS4-PKG.webp",
+      "description": "<p>Assassin’s Creed Syndicate is an action-adventure stealth game. The PS4 fake PKG for Assassin’s Creed Syndicate is now available, including updates and DLC. PS4 Jailbreak users can easily install PKGs. Developed by Ubisoft Quebec and published by Ubisoft, this game is the 9th major installment in the Assassin’s Creed series, released on October 23, 2015.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [mocha]",
+          "url": "https://mocha.my/share/4eI67UMiQtI7-wKxwHAiQAU4Hq981-Q1"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.54.pkg [mocha]",
+          "url": "https://mocha.my/share/pFNIeAAsGwVjKfwdKvNaEfUYqpTKAxDm"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [mocha]",
+          "url": "https://mocha.my/share/vEsksOEXOPwmy5C-UTlrU5yci0Li-xXw"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [filek]",
+          "url": "https://filekeeper.net/djhfr7dc5tje/%5BSuperPSX%5D-Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.54.pkg [filek]",
+          "url": "https://filekeeper.net/gz7q0ymmj0fk/%5BSuperPSX%5D-Assassins.Creed.Syndicate-CUSA02389-USA-Update-v1.54-(5.05+)-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [filek]",
+          "url": "https://filekeeper.net/u5ym1p0y8n62/%5BSuperPSX%5D-Assassins.Creed.Syndicate-CUSA02389-USA-DLC-PS4.rar"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "https://vikingfile.com/f/DgZB09nu00"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.54.pkg [viki]",
+          "url": "https://vikingfile.com/f/PRqpYyz6st"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [viki]",
+          "url": "https://vikingfile.com/f/13OAsvdejZ"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA14566",
       "title": "PC Building Simulator PS4 [CUSA14566 – EUR]",
       "category": "game",
