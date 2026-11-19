@@ -3,6 +3,54 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA07384",
+      "title": "Wolfenstein 2 The New Colossus PS4 [CUSA07384 – USA]",
+      "category": "game",
+      "version": "v1.07",
+      "sizeBytes": 47244640256,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Wolfenstein_-II_-The-New-Colossus_-PS4-PKG.webp",
+      "description": "<p>Wolfenstein 2: The New Colossus PS4 is an action-adventure first-person shooter game developed by MachineGames and published by Bethesda Softworks. Released on October 27, 2017</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [mocha]",
+          "url": "https://mocha.my/share/PsqghkEE3YimBN-nANEr4y1jsh1cy4Bk"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.07.pkg [mocha]",
+          "url": "https://mocha.my/share/UoDS3Vsq0cLZr7Huj3923szs6EJ0r2i1"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [mocha]",
+          "url": "hhttps://mocha.my/share/SEQ09V303Wla09ceBrBMBUtAF20OoCUJ"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [filek]",
+          "url": "https://filekeeper.net/tu27fenosdbd/%5BSPSX%5D-Wolfenstein.2.The.New.Colossus-CUSA07384-USA-Game-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.07.pkg [filek]",
+          "url": "https://filekeeper.net/miqx9boov1uo/%5BSPSX%5D-Wolfenstein.2.The.New.Colossus-CUSA07384-USA-Update-v1.07_-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [filek]",
+          "url": "https://filekeeper.net/n9jxgptrjreb/%5BSPSX%5D-Wolfenstein.2.The.New.Colossus-CUSA07384-USA-DLC-PS4.rar"
+        }
+,
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "https://vikingfile.com/f/HvnjWVcYti"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.08.pkg [viki]",
+          "url": "https://vikingfile.com/f/NzqNfXoDI7"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [viki]",
+          "url": "https://vikingfile.com/f/2PQfVZH1eI"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA13689",
       "title": "The Outer Worlds PS4 [CUSA13689 – EUR]",
       "category": "game",
