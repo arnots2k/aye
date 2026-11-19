@@ -3,6 +3,33 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA07570",
+      "title": "Mortal Kombat 1 PS5 [PPSA07570 – USA]",
+      "category": "game",
+      "version": "v01.010.001 · BackPork 4.xx",
+      "sizeBytes": 135291469824,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/03/Mortal-Kombat-1-PS5.png",
+      "description": "<p>Mortal Kombat 1 is the latest installment of the legendary fighting franchise, delivering brutal combat and iconic characters. Experience intense one-on-one battles with stunning visuals and seamless gameplay on PlayStation 5. </p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v01.010.001 .pkg [mocha]",
+          "url": "https://mocha.my/share/bYpL9jSyZRphIxlUo-HfLSEq0h8RH-_I"
+        },
+	{
+          "name": "GAME DLC .pkg [mocha]",
+          "url": "https://mocha.my/share/Kb-Zhmp_uZ8RfvgUNIwhSxpq8NRGXtln"
+        },
+	{
+          "name": "GAME DOWNLOAD v01.010.001 .pkg [viki]",
+          "url": "https://vikingfile.com/f/sX71umbrRb"
+        },
+	{
+          "name": "GAME DLC .pkg [viki]",
+          "url": "https://vikingfile.com/f/kD0lCVmict"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA34299",
       "title": "WWE 2K26 PS5 [PPSA34299 – USA]",
       "category": "game",
@@ -22,8 +49,8 @@
       ]
     },
 	      {
-      "titleId": "PPSA31246",
-      "title": "EA SPORTS UFC 6 PS5 [PPSA31246 – EUR]",
+      "titleId": "PPSA23566",
+      "title": "EA SPORTS UFC 6 PS5 [PPSA23566 – EUR]",
       "category": "game",
       "version": "v01.005 · DLCs Merged · Backport 4.xx",
       "sizeBytes": 70866960384,
