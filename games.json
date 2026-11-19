@@ -3,6 +3,53 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA03291",
+      "title": "Dead Island Definitive Edition PS4 [CUSA03291 – EUR]",
+      "category": "game",
+      "version": "v1.03",
+      "sizeBytes": 5368709120,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2018/03/Dead-Island-Definitive-Edition-PS4-PKG.webp",
+      "description": "<p>Dead Island Definitive Edition is an action role-playing survival horror game developed by Techland and published by Deep Silver. Released on May 31, 2016, it combines the remastered versions of Dead Island and Dead Island: Riptide, both rebuilt using Techland’s Chrome Engine 6. Additionally, it includes Dead Island Retro Revenge, a retro beat-em-up side-scroller created by Empty Clip Studios.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.03.pkg [mocha]",
+          "url": "https://mocha.my/share/gD6dq1OU1iZ4LcOCTd3QM-rM157wpBcn"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.07.pkg [mocha]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [mocha]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.03.pkg [filek]",
+          "url": "https://filekeeper.net/t8qnvsmvuua8/%5BSPSX%5D-Dead.Island.DE-CUSA03291-USA-Game-v1.03-(5.05+)-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.04.pkg [filek]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [filek]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.04.pkg [viki]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [viki]",
+          "url": "*"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA33609",
       "title": "WRC Generations The FIA WRC Official Game PS4 [CUSA33609 – EUR]",
       "category": "game",
@@ -34,8 +81,7 @@
 	{
           "name": "GAME DOWNLOAD DLC.rar [filek]",
           "url": "https://filekeeper.net/fk4cm08jz0jh/%5BSuperPSX%5D-WRC_Generations-CUSA33609_-EUR-DLCs-PS4.rar"
-        }
-,
+        },
 	{
           "name": "GAME DOWNLOAD v1.00.pkg [viki]",
           "url": "https://vikingfile.com/f/WqHyAgLDgY"
@@ -82,8 +128,7 @@
 	{
           "name": "GAME DOWNLOAD DLC.rar [filek]",
           "url": "https://filekeeper.net/n9jxgptrjreb/%5BSPSX%5D-Wolfenstein.2.The.New.Colossus-CUSA07384-USA-DLC-PS4.rar"
-        }
-,
+        },
 	{
           "name": "GAME DOWNLOAD v1.00.pkg [viki]",
           "url": "https://vikingfile.com/f/HvnjWVcYti"
@@ -130,8 +175,7 @@
 	{
           "name": "GAME DOWNLOAD DLC.rar [filek]",
           "url": "https://filekeeper.net/83easju2ju40/%5BSuperPSX%5D-The.Outer.Worlds_CUSA13689_DLC-PACK%5B2%5D-PS4.rar"
-        }
-,
+        },
 	{
           "name": "GAME DOWNLOAD v1.00.pkg [viki]",
           "url": "https://vikingfile.com/f/KUyCumNLaO"
