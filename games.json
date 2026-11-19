@@ -269,29 +269,6 @@
       ]
     },
 	      {
-      "titleId": "PPSA08668",
-      "title": "[PS5 Pippo] FINAL FANTASY VII REBIRTH Deluxe Edition [PPSA08668 - EUR]",
-      "category": "game",
-      "version": "v01.080",
-      "sizeBytes": 148176371712,
-      "posterUrl": "https://m.media-amazon.com/images/I/61IOS8mLI1L._AC_UF1000,1000_QL80_.jpg",
-      "description": "<p>Thanks to DUPLEX for the Files with DLCs and ManwonHp & Plma for the BackPort - INSTRUCTIONS HOW TO PLAY FPKG atm is only working up to 11.60 - use Dump if you are above. About Dump: SDK is 9.xx - separated BackPort Folder included. About FPKG: BackPort already included on Base - separated Original Files PKG included-  optional.</p>",
-      "downloadLinks": [
-        {
-          "name": "FULL GAME DOWNLOAD *PKG* 137GB [vikingfile]",
-          "url": "https://vikingfile.com/d/rtQpHpnAkD/EP0082-PPSA08668_00-EUROPE0000000000.pkg"
-        }
-        ,{
-          "name": "Orig file (9.xx+) PKG *optional only* 806MB [vikingfile]",
-          "url": "https://vikingfile.com/d/rtQpHpnAkD/original%20files%20(9.xx+)/EP0082-PPSA08668_00-EUROPE0000000000-original.pkg"
-        }
-		,{
-          "name": "Game Download [vikingfile rar.7z]",
-          "url": "https://vikingfile.com/f/PiKhdop1aV"
-        }
-      ]
-    },
-	      {
       "titleId": "CUSA14836",
       "title": "Catherine Full Body Digital Deluxe Edition PS4 [CUSA14836 – USA]",
       "category": "game",
@@ -548,29 +525,6 @@
       ]
     },
 	      {
-      "titleId": "PPSA25972",
-      "title": "[PS5 PKG] CarX Street PS5 [PPSA25972 – EUR]",
-      "category": "game",
-      "version": "v01.043",
-      "sizeBytes": 18253611008,
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/10/CarX-Street-PS5.jpg",
-      "description": "<p>CarX Street is an open-world street racing game that combines realistic driving physics, detailed car customization, competitive races, and a sprawling urban environment. Developed by CarX Technologies, the game lets players explore Sunset City, build and customize their dream cars, compete in high-speed street races, and develop their reputation across different racing clubs. Master challenging corners, tune your vehicle for different events, and experience a dynamic driving world designed for racing enthusiasts. CarX Street PS5 game is available on PlayStation 5. Game updates and DLCs can be seamlessly installed through the official game platform.</p>",
-      "downloadLinks": [
-        {
-          "name": "Game Download [mocha]",
-          "url": "https://mocha.my/share/iruPG9CqGN2rfbqSactzgVG57Sqna9tC"
-        }
-        ,{
-          "name": "Game Download [vikingfile]",
-          "url": "https://https://vikingfile.com/f/TwBAPxeBz7"
-        }
-	,{
-          "name": "* [*]",
-          "url": "*"
-        }
-      ]
-    },
-	      {
       "titleId": "CUSA15633",
       "title": "CarX Drift Racing Online PS4 [CUSA15633 – EUR]",
       "category": "game",
@@ -773,37 +727,6 @@
         }
       ]
     },
-	      {
-      "titleId": "PPSA14322",
-      "title": "[FPKG] Patapon 3 [PPSA14322]",
-      "category": "game",
-      "version": "v01.000.003",
-      "sizeBytes": 2147483648,
-      "posterUrl": "https://pbs.twimg.com/media/GjeYnmPWAAAXiLF?format=webp&name=large",
-      "description": "<p>4.xx BackPort FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.</p>",
-      "downloadLinks": [
-        {
-          "name": "Download FPKG direct *test* [vikingfile]",
-          "url": "https://vikingfile.com/d/GrOjhWVRbe/UP9000-PPSA14322_00-UCUS987510000000.pkg"
-        }
-        ,{
-          "name": "Download rar.7z [vikingfile]",
-          "url": "https://vikingfile.com/f/gN1hlSzixu"
-        }
-        ,{
-          "name": "Download [filekeeper]",
-          "url": "https://filekeeper.net/1qyb2w1ytm57/PPSA14322-Compressed.7z"
-        }
-        ,{
-          "name": "Download [akirabox]",
-          "url": "https://akirabox.com/0KezkK991zD1/file"
-        }
-		,{
-          "name": "Download [datanods]",
-          "url": "https://datanodes.to/83k4kafblbyt/PPSA14322-Compressed.7z"
-        }
-      ]
-    },
 	  {
       "titleId": "CUSA06549",
       "title": "Lego City Undercover PS4 [CUSA06549 – USA]",
@@ -836,53 +759,6 @@
 	,{
           "name": "DLC [akirabox]",
           "url": "*"
-        }
-      ]
-    },
-	      {
-      "titleId": "PPSA26679",
-      "title": "Ninja Gaiden Black II - PS5 [PPSA26679]",
-      "category": "game",
-      "version": "9.xx+",
-      "sizeBytes": 92878667776,
-      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5h7cjNWhA_Lhoii0-fEF358IMUFYhdEGDajTqlqV8ryDzXR5iVuUto6Q&s=10",
-      "description": "<p>ZSTD 86.5GB - Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10</p>",
-      "downloadLinks": [
-        {
-          "name": "Download Part 1 [viki]",
-          "url": "https://vikingfile.com/f/595wC15JUo"
-        }
-        ,{
-          "name": "Download Part 2 [viki]",
-          "url": "https://vikingfile.com/f/W1nhRfazvi"
-        }
-        ,{
-          "name": "Download Part 3 [viki]",
-          "url": "https://vikingfile.com/f/oOG2ebpvnQ"
-        }
-        ,{
-          "name": "Download Part 4 [viki]",
-          "url": "https://vikingfile.com/f/5tcyrbR3Hr"
-        }
-        ,{
-          "name": "Download Part 5 [viki]",
-          "url": "https://vikingfile.com/f/YHaEp6XXcw"
-        }
-        ,{
-          "name": "Download Part 6 [viki]",
-          "url": "https://vikingfile.com/f/2ItCYa66v0"
-        }
-        ,{
-          "name": "Download Part 7 [viki]",
-          "url": "https://vikingfile.com/f/tpmKPw8vtv"
-        }
-        ,{
-          "name": "Download Part 8 [viki]",
-          "url": "https://vikingfile.com/f/cQnC3F33Z0"
-        }
-        ,{
-          "name": "Download Part 9 [viki]",
-          "url": "https://vikingfile.com/f/VcJ8BGS2Ax"
         }
       ]
     },
