@@ -3,6 +3,54 @@
 	"version": 1,
   "packages": [
 	      {
+      "titleId": "CUSA33609",
+      "title": "WRC Generations The FIA WRC Official Game PS4 [CUSA33609 – EUR]",
+      "category": "game",
+      "version": "v1.04",
+      "sizeBytes": 32212254720,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/03/WRC-Generations-The-FIA-WRC-Official-Game-PS4-PKG.webp",
+      "description": "<p>WRC Generations The FIA WRC Official Game is an exhilarating rally racing game developed by KT Racing and published by Nacon. Known for its realistic driving mechanics, detailed tracks, and official cars, WRC Generations delivers an authentic rally experience.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [mocha]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.07.pkg [mocha]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [mocha]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [filek]",
+          "url": "https://filekeeper.net/kgwumapuvs15/%5BSuperPSX%5D-WRC.Generations_CUSA33609_v1.00_%5B9.00+%5D_PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.04.pkg [filek]",
+          "url": "https://filekeeper.net/e2p2sdb3fy4p/%5BSuperPSX%5D-WRC.Generations_CUSA33609-EUR-Update_v1.04_(9.00+)-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [filek]",
+          "url": "https://filekeeper.net/fk4cm08jz0jh/%5BSuperPSX%5D-WRC_Generations-CUSA33609_-EUR-DLCs-PS4.rar"
+        }
+,
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "https://vikingfile.com/f/WqHyAgLDgY"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.04.pkg [viki]",
+          "url": "https://vikingfile.com/f/T50DQ5wnTV"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [viki]",
+          "url": "https://vikingfile.com/f/R53CGoV7N4"
+        }
+      ]
+    },
+	      {
       "titleId": "CUSA07384",
       "title": "Wolfenstein 2 The New Colossus PS4 [CUSA07384 – USA]",
       "category": "game",
