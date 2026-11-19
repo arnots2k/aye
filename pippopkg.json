@@ -3,6 +3,53 @@
 	"version": 1.00,
   "packages": [
 	      {
+      "titleId": "PPSA31246",
+      "title": "Resident Evil Requiem Deluxe Edition PS5 [PPSA31246 – EUR]",
+      "category": "game",
+      "version": "v01.310 - Backport 4.xx",
+      "sizeBytes": 75161927680,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/11/Resident-Evil-Requiem-Deluxe-Edition-PS5.jpg",
+      "description": "<p>Resident Evil Requiem Deluxe Edition is the critically acclaimed ninth mainline entry in Capcom’s legendary survival horror franchise. Blending tense psychological horror and heart-pounding action, the game features dual protagonists: FBI analyst Grace Ashcroft, whose sections deliver classic, terrifying survival horror, and veteran agent Leon S. Kennedy, who tackles pulse-pounding, action-oriented sequences. The Deluxe Edition includes the full game alongside the exclusive Deluxe Kit packed with extra in-game content, special character costumes, and bonus features. Optimized specifically for PlayStation 5 with stunning 4K visuals, DualSense haptic feedback, and adaptive trigger support, it delivers the ultimate horror experience.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v01.310.7z [akirabox]",
+          "url": "https://akirabox.com/E1x3AZdaRzyk/file"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.09.pkg [mocha]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [akira]",
+          "url": "https://akirabox.com/E9Qz9Av1bzOL/file"
+        },
+	{
+          "name": "GAME DOWNLOAD v01.310.7z [filek]",
+          "url": "https://filekeeper.net/evqjzk0dtv1e/PPSA31246-Compressed.7z"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.09.pkg [filek]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [filek]",
+          "url": "https://filekeeper.net/xlm67cghuuhn/DLCs_dunaevnick.rar"
+        },
+	{
+          "name": "GAME DOWNLOAD v01.310.7z [viki]",
+          "url": "https://vikingfile.com/f/i0UsKKt2BJ*"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.09.pkg [viki]",
+          "url": "*"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [viki]",
+          "url": "https://vikingfile.com/f/7aM6QZGBOf"
+        }
+      ]
+    },
+	      {
       "titleId": "PPSA25991",
       "title": "Senuas Saga Hellblade II PS5 [PPSA25991 – EUR]",
       "category": "game",
