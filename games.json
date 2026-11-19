@@ -4,6 +4,54 @@
   "packages": [
 	      {
       "titleId": "CUSA03291",
+      "title": "Bloodborne PS4 [CUSA03291 – EUR]",
+      "category": "game",
+      "version": "v1.09",
+      "sizeBytes": 30064771072,
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2024/09/Bloodborne_-PS4-PKG.webp",
+      "description": "<p>Bloodborne is a critically acclaimed action RPG developed by FromSoftware and published by Sony Computer Entertainment. Set in a dark, gothic world filled with nightmarish creatures and challenging gameplay, Bloodborne is renowned for its intense combat and deep lore.</p>",
+      "downloadLinks": [
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [mocha]",
+          "url": "https://mocha.my/share/Dl89ORCAnHMlbYpzRodugbtEQk15jgeq"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.09.pkg [mocha]",
+          "url": "https://mocha.my/share/Oxoe9F8fTy9wH_X5UIY-JcfqR9zfl5Yf"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [mocha]",
+          "url": "https://mocha.my/share/VdNsZgmrbkJYAJQoTvM-eEGxtbwdSeHq"
+        },
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [filek]",
+          "url": "https://filekeeper.net/z913zo0sxl2n/%5BSPSX%5D-Bloodborne.Complete.Edition-CUSA00900-USA-Game-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.09.pkg [filek]",
+          "url": "https://filekeeper.net/v12kfs1dpfuv/%5BSPSX%5D-Bloodborne.Complete.Edition-CUSA00900-USA-Update-v1.09-PS4.pkg"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [filek]",
+          "url": "https://filekeeper.net/sk7kbbsc8yrd/Bloodborne.DLC-CUSA00900.rar"
+        }
+,
+	{
+          "name": "GAME DOWNLOAD v1.00.pkg [viki]",
+          "url": "https://vikingfile.com/f/sZ9SDfUADG*"
+        },
+	{
+          "name": "GAME DOWNLOAD Update v1.09.pkg [viki]",
+          "url": "https://vikingfile.com/f/SGwNzXFxSK"
+        },
+	{
+          "name": "GAME DOWNLOAD DLC.rar [viki]",
+          "url": "https://vikingfile.com/f/A3WmO0kd8M"
+        }
+      ]
+    },
+	      {
+      "titleId": "CUSA03291",
       "title": "Dead Island Definitive Edition PS4 [CUSA03291 – EUR]",
       "category": "game",
       "version": "v1.03",
